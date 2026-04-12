@@ -4,7 +4,7 @@ Jemima Richardson
 - Birth Place: Tennessee  `#2`
 - Died: 31 July 1924  `#2`
 - Burial:   Bennett Cemetery, Bennett, Ripley County, Missouri `#1`
-- Spouse:  George W. Wilson
+- Spouse:  George W. Wilson `#4`
 - Marriage Date: before 1878  `#3`
 - Child:  Aulsy Wilson
 - Father: William A Richardson  `#2`
@@ -17,3 +17,4 @@ SOURCES:
 1. [Jemima Richardson Tombstone. Find A Grave Memorial ID: 30548718](https://www.findagrave.com/memorial/30548718/jemima-c.-wilson)
 2. [Jemima Richardson Death Certificate](https://www.sos.mo.gov/images/archives/deathcerts/1924/1924_00023431.PDF).
 3. [Year: 1880; Census Place: District 11, Perry, Tennessee; Roll: 1274; Page: 430D; Enumeration District: 150](https://www.ancestry.com/search/collections/6742/records/9934143?tid=168012819&pid=272180029142&ssrc=pt).
+4. [Tennessee, Marriage Records, 1780-2002](https://www.ancestry.com/search/collections/1169/records/6843240?tid=168012819&pid=272180029347&ssrc=pt)
