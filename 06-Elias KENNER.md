@@ -1,10 +1,10 @@
 The Honorable Elias Housen Kenner
 
 - Born: 24 March 1817                                                    #3, #1
-- Birth Place:  Tennessee                                                #1
+- Birth Place:  Tennessee                                                #1, #2
 - Died:  16 Jan 1897                                                     #3
 - Burial:  Macedonia Cemetery, Warm Stprings, Randolph County, Arkansas  #3
-- Child:  [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)                                                   #1             
+- Child:  [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)                                                   #1, #2             
 
 
 SOURCES
