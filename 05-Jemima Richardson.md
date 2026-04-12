@@ -1,14 +1,14 @@
 Jemima Richardson
 
-- Born: 
-- Birth Place: 
-- Died: 
-- Burial:  
-- Spouse:  
+- Born: 14 Feb 1859  `#2`
+- Birth Place: Tennessee  `#2`
+- Died: 31 July 1924  `#2`
+- Burial:   Bennett Cemetery, Bennett, Ripley County, Missouri `#1`
+- Spouse:  George W. Wilson
 - Marriage Date: before 1878  `#3`
-- Child:  
-- Father: 
-- Mother: 
+- Child:  Aulsy Wilson
+- Father: William A Richardson  `#2`
+- Mother: Jane Childers  `#2`
 
 
 
