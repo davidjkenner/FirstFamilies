@@ -3,7 +3,7 @@ The Rev. EHC Kenner
 - Born: 1850  `#1, #5`
 - Birth Place: Missouri  `#1`
 - Died:  1928  `#5`
-- Burial:  Black Creek Cemetery, Poplar Bluff, Butler County, Missouri   `#5
+- Burial:  Black Creek Cemetery, Poplar Bluff, Butler County, Missouri   `#5`
 - Spouse:   Maatilda Miller  `#3, #4`    
 - Marriage Date: bedore 1872  `#2`
 - Child:  [George Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/04-George%20KENNER.md)  `#2`
