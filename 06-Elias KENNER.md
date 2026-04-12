@@ -4,6 +4,8 @@ The Honorable Elias Housen Kenner
 - Birth Place:  Tennessee                                                #1, #2
 - Died:  16 Jan 1897                                                     #3
 - Burial:  Macedonia Cemetery, Warm Stprings, Randolph County, Arkansas  #3
+- Spouse: [Clarinda Latham](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Clarinda%20LATHAM.md?plain=1)       `#2`
+- Marriage Date: before 1844      `#1`
 - Child:  [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)                                                   #1, #2             
 
 
