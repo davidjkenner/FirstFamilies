@@ -8,3 +8,5 @@
 - [Roberta Holman Birth Certificate #18036 P.2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P2.jpg)
 
 - [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/1450809?tid=168012819&pid=272180029576&ssrc=pt).
+
+- [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Beaumont_Journal_1965_02_11_14.pdf)
