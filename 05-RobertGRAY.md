@@ -9,5 +9,7 @@ SOURCES:
 - [Nebraska Grand Army of the Republic 30-357](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/GAR.jpg).
 - [Robert Gray Tombstone. Find A Grave Memorial ID 58099873](https://www.findagrave.com/memorial/58099873/robert-gray).
 - [Isabel Pratt Tombstone. Find A Grave Memorial ID 79992854](https://www.findagrave.com/memorial/79992854/isabelle_ernestine-gray).
-- [FirstFamilies/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf at main · davidjkenner/FirstFamilies](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
+
+- [The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
+
 
