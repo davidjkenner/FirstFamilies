@@ -13,3 +13,6 @@ SOURCES:
 - [The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
 
 
+- [Robert Gray II Obituary: The Harvard Courier 3 Oct 1903](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Harvard_Courier_Sat__Oct_3__1903_.pdf).
+
+
