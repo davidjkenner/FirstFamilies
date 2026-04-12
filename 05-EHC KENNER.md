@@ -1,4 +1,6 @@
 
+- [Year: 1860; Census Place: Dry Creek, Maries, Missouri; Roll: M653_632; Page: 562; Family History Library Film: 803632](https://www.ancestry.com/search/collections/7667/records/40427738?tid=168012819&pid=272180029271&ssrc=pt).
+
 - [Year: 1880; Census Place: Beaver Dam, Butler, Missouri; Roll: 676; Page: 584D; Enumeration District: 013](https://www.ancestry.com/search/collections/6742/records/33716598?tid=168012819&pid=272180029515&ssrc=pt)
 
 
