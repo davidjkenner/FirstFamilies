@@ -6,7 +6,7 @@ George Wilson
 - Burial:  Bennett Cemetery, Bennett, Ripley County, Missouri  `#1`
 - Spouse:  Jemimia Wilson  `#2`
 - Marriage Date: before 1878  `#3`
-- Child:  Aulsy J. Wilson  `#3`
+- Child:  [Aulsy J. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Aulsy%20Wilson.md)  `#3`
 - Father: William Wilson  `#2`
 - Mother: Virginia Periehouse  `#2`
 
