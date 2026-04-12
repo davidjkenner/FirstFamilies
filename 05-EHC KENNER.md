@@ -1,14 +1,14 @@
 The Rev. EHC Kenner
 
-- Born: 24 March 1817                                                    #3, #1
-- Birth Place:  Tennessee                                                #1, #2
-- Died:  16 Jan 1897                                                     #3
-- Burial:  Macedonia Cemetery, Warm Stprings, Randolph County, Arkansas  #3
-- Spouse:        `#2`
-- Marriage Date: before 1844      `#1`
-- Child:  [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)                                                   #1, #2
-- Father:   [Elias Housen](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elias%20KENNER.md?plain=1)
-- Mother: [Clarinda Latham](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Clarinda%20LATHAM.md?plain=1)
+- Born: 1850  `#1, #5`
+- Birth Place: Missouri  `#1`
+- Died:  1928  `#5`
+- Burial:  Black Creek Cemetery, Poplar Bluff, Butler County, Missouri   `#5
+- Spouse:   Maatilda Miller  `#3, #4`    
+- Marriage Date: bedore 1872  `#2`
+- Child:  [George Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/04-George%20KENNER.md)  `#2`
+- Father:   [Elias Housen](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elias%20KENNER.md?plain=1)  `#1`
+- Mother: [Clarinda Latham](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Clarinda%20LATHAM.md?plain=1)  `#1`
 
 SOURCES:
 1. [Year: 1860; Census Place: Dry Creek, Maries, Missouri; Roll: M653_632; Page: 562; Family History Library Film: 803632](https://www.ancestry.com/search/collections/7667/records/40427738?tid=168012819&pid=272180029271&ssrc=pt).
