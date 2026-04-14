@@ -21,3 +21,4 @@ RESOURCES:
 - [Indiana](https://indianapioneers.org/ancestors/)
 - [Ohio](https://www.ogs.org/search-databases/)
 - [Tennessee](https://tngs.org/TCD)
+- [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
