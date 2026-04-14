@@ -13,3 +13,5 @@ RESOURCES:
 --------------------------------------------------------
 - [Iowa](https://iowagenealogy.org/surname.php)
 - [Ohio](https://www.ogs.org/search-databases/)
+- [Missouri Online Death Certificates](https://s1.sos.mo.gov/records/Archives/ArchivesMvc/DeathCertificates)
+- [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf)
