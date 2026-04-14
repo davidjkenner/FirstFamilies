@@ -10,4 +10,6 @@ RESOURCES:
 - [DAR Descendents](https://services.dar.org/Public/DAR_Research/search/?Tab_ID=5)
 - [DAR Ancestors](https://services.dar.org/Public/DAR_Research/search/?Tab_ID=1)
 
+--------------------------------------------------------
 - [Iowa](https://iowagenealogy.org/surname.php)
+- [Ohio](https://www.ogs.org/search-databases/)
