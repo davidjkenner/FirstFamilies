@@ -16,6 +16,7 @@ RESOURCES:
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf)
 - [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php)
 - [Iowa](https://iowagenealogy.org/surname.php)
+- [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
 - [Illinois](https://ilgensoc.org/cpage.php?pt=599)
 - [Indiana](https://indianapioneers.org/ancestors/)
 - [Ohio](https://www.ogs.org/search-databases/)
