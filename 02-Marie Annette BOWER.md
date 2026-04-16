@@ -3,7 +3,7 @@ Marie Annette Bower
 - Born: 8 Aug 1936  `#1, #2, #3`
 - Birth Place: Missouri  `#3` 
 - Marriage Date: 1 June 1955  `#2`
-- Marriage Place: probably Missouri  `#2`
+- Marriage Place: Poplar Bluff, Missouri  `#2`
 - Died: 26 Nov 2022  `#1, #2`
 - Burial Place:  Poplar Bluff City Cemetery, Poplar Bluff, Butler County, Missouri  `#1`
 - Spouse:  Jerome Kenner `#2`
