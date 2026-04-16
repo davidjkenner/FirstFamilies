@@ -1,15 +1,11 @@
 David Kenner
 
-- Born: 
-- Birth Place: 
-- Marriage Date: 
-- Marriage Place: 
-- Died: 
-- Burial Place:  
-- Spouse:  
-- Child:  
-- Father: Jerome Kenner 
-- Mother: Marie Annette Bower 
+- Born: 17 June 1964  `#1, #2`
+- Birth Place: Poplar Bluff, Missouri    `#1, #2`
+- Died: Living
+- Burial Place:  Living
+- Father: Jerome Kenner    `#1, #2, #3, #4`
+- Mother: Marie Annette Bower   `#1, #2, #3, #4` 
 
 
 
