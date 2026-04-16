@@ -4,8 +4,8 @@ David Kenner
 - Birth Place: Poplar Bluff, Missouri    `#1, #2`
 - Died: Living
 - Burial Place:  Living
-- Father: Jerome Kenner    `#1, #2, #3, #4`
-- Mother: Marie Annette Bower   `#1, #2, #3, #4` 
+- Father: [Jerome Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Jerome%20KENNER.md)    `#1, #2, #3, #4`
+- Mother: [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)   `#1, #2, #3, #4` 
 
 
 
