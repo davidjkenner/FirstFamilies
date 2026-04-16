@@ -1,15 +1,15 @@
 Marie Annette Bower
 
-- Born: 8 Aug 1936  `#1`
+- Born: 8 Aug 1936  `#1, #2`
 - Birth Place: 
-- Marriage Date: 
-- Marriage Place: 
-- Died: 26 Nov 2022  `#1`
+- Marriage Date: 1 June 1955  `#2`
+- Marriage Place: probably Missouri  `#2`
+- Died: 26 Nov 2022  `#1, #2`
 - Burial Place:  Poplar Bluff City Cemetery, Poplar Bluff, Butler County, Missouri  `#1`
-- Spouse:  
-- Child:  David Kenner
-- Father:  
-- Mother:  [ Roberta Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Roberta%20HOLMAN.md?plain=1) 
+- Spouse:  Jerome Kenner `#2`
+- Child:  David Kenner  `#2`
+- Father:  Oscar Lee Bower  `#2`
+- Mother:  [ Roberta Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Roberta%20HOLMAN.md?plain=1) `#2`
 
 
 
