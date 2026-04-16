@@ -1,4 +1,19 @@
+Roberta Holman
 
+- Born: 
+- Birth Place: 
+- Marriage Date: 
+- Marriage Place: 
+- Died: 
+- Burial Place:  
+- Spouse:  
+- Child:  [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md) 
+- Father:  
+- Mother:    
+
+
+
+SOURCES:
 
 - [1930; Census Place: Police Jury Ward 3, Beauregard, L](https://www.ancestry.com/search/collections/6224/records/34318698?tid=168012819&pid=272180029245&ssrc=pt).
 
