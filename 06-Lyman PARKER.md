@@ -7,7 +7,7 @@ SGT Lyman Parker
 - Burial:  Oakwood-Mount Pleasant Cemetery, Oakwood, Oakland County, Michigan  `#1`
 - Spouse:  Elizabeth `#2`
 - Marriage Date: 
-- Child:  Hannah Parker   `#2`
+- Child:  [Hannah Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Hannah%20PARKER.md)   `#2`
 - Father:
 - Mother:  
 
