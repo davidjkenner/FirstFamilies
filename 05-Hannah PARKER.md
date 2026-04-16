@@ -2,11 +2,11 @@ Hannah Parker Hall Holman
 
 - Born: 
 - Birth Place:
-- Marriage Date:
-- Marriage Place:
+- Marriage Date: 03 October 1858  `#1`
+- Marriage Place: Oakwood, Michigan  `#1`
 - Died: 
 - Burial Place:  
-- Spouse:  
+- Spouse:  J. S. Holman  `#1`
 - Child:  
 - Father: [Lyman Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Lyman%20PARKER.md?plain=1).
 - Mother:  
