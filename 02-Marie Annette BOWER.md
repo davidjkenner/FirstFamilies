@@ -1,11 +1,11 @@
 Marie Annette Bower
 
-- Born: 
+- Born: 8 Aug 1936  `#1`
 - Birth Place: 
 - Marriage Date: 
 - Marriage Place: 
-- Died: 
-- Burial Place:  
+- Died: 26 Nov 2022  `#1`
+- Burial Place:  Poplar Bluff City Cemetery, Poplar Bluff, Butler County, Missouri  `#1`
 - Spouse:  
 - Child:  David Kenner
 - Father:  
