@@ -1,11 +1,12 @@
 Hannah Parker Hall Holman
 
 - Born: 
-- Birth Place: 
+- Birth Place:
+- Marriage Date:
+- Marriage Place:
 - Died: 
-- Burial:  
+- Burial Place:  
 - Spouse:  
-- Marriage Date: 
 - Child:  
 - Father: [Lyman Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Lyman%20PARKER.md?plain=1).
 - Mother:  
