@@ -1,11 +1,6 @@
 PVT John Swindell
 
-
-[DAR Genealogical Research Databases](https://services.dar.org/public/dar_research/search_adb/?action=full&p_id=A112056)
-
-
-
-- Ancestor #:  A112056
+- Ancestor #:  [A112056](https://services.dar.org/public/dar_research/search_adb/?action=full&p_id=A112056)
 - Service:	VIRGINIA Rank(s): PRIVATE
 - Birth:	1746 ORANGE CO VIRGINIA
 - Death:	8-20-1839 BOONE CO KENTUCKY
