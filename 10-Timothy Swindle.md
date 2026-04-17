@@ -15,7 +15,7 @@ SOURCES:
 https://sarpatriots.sar.org/patriot/display/301166
 
 State of Service: VA      Qualifying Service: Patriotic Service
-DAR #: A133267
+DAR #: [A133267](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A133267)
 
 Birth: bef 1736
 Death: aft 14 May 1785 / Culpeper / VA
