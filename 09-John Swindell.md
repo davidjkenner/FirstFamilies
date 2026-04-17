@@ -15,7 +15,22 @@ Service Description:
 **2)** COLS BARBOUR, ALCOCK
 
 
+State of Service: VA      Qualifying Service: Private
+DAR #: A112056
 
+Birth: 1746 / Culpeper / VA
+Death: 20 Aug 1839 / Boone / KY
+
+Qualifying Service Description:
+Captains Hill, Wood, and Staunton; Colonels Barbour and Alcock
+
+
+Additional References:
+SAR Patriot Index Edition III (CD: PP2210, Progeny Publ, 2002) plus data to 2004
+Rev War Pension S*W8774
+
+Spouse: Hannah Weaver
+Children: Mary; John; Joseph; Elizabeth;
 
 
 
