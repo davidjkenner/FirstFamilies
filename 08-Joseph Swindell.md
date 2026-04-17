@@ -1,15 +1,15 @@
 Joseph Swindell
 
-Born:
-Birth Place:
-Marriage Date:
-Marriage Place:
-Died:
-Burial Place:
-Spouse:
-Child:
-Father:  John Swindell  https://github.com/davidjkenner/FirstFamilies/blob/main/09-John%20Swindell.md
-Mother:
+- Born:
+- Birth Place:
+- Marriage Date:
+- Marriage Place:
+- Died:
+- Burial Place:
+- Spouse:
+- Child:
+- Father:  [John Swindell](https://github.com/davidjkenner/FirstFamilies/blob/main/09-John%20Swindell.md)  
+- Mother:
 
 SOURCES:
 
