@@ -7,6 +7,9 @@ David Kenner
 - Father: [Jerome Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Jerome%20KENNER.md)    `#1, #2, #3, #4`
 - Mother: [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)   `#1, #2, #3, #4` 
 
+- WID: 1776518586
+- State/Society: Maryland SAR
+- Chapter: Charles Carroll of Carrollton
 
 
 SOURCES:
