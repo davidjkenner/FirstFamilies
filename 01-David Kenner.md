@@ -21,6 +21,7 @@ SOURCES:
 2. [Weekly Citizen Democrat 18 June 1964](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Weekly_Citizen_Democrat_1964_06_18_3%20(1).pdf)
 3. [Marie Annette Bower Obituary: Daily American Republic 16 Dec. 2022](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/MarieAnnetteBower-obit.pdf)
 4. [Jerome Kenner Obituraury: Daily American Republic 11 March 2020](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DAR-2674770.JPG).
+5. [David Kenner SAR](https://sarpatriots.sar.org/member/display/219515)
 
 
 
