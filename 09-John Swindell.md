@@ -8,6 +8,7 @@ PVT John Swindell
 - Service Source:	S*W8774
 - Spouse:	HANNAH WEAVER
 - Residence:	 **County:**  CULPEPER CO-ENL -  **State:** VIRGINIA
+- Pending:  WID 1776522412
 
 Service Description:
 
