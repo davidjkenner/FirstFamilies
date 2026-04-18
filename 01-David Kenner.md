@@ -10,6 +10,9 @@ David Kenner
 - WID: 1776518586
 - State/Society: Maryland SAR
 - Chapter: Charles Carroll of Carrollton
+- NSSAR #:
+- Society:
+- State Number:
 
 
 SOURCES:
