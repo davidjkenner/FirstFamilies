@@ -23,3 +23,4 @@ RESOURCES:
 - [Tennessee](https://tngs.org/TCD)
 - [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view)
+- [Nebraska Surnames](https://nsgs.org/surname.php)
