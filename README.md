@@ -24,3 +24,4 @@ RESOURCES:
 - [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view)
 - [Nebraska Surnames](https://nsgs.org/surname.php)
+- [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
