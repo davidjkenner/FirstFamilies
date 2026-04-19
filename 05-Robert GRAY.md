@@ -4,7 +4,7 @@ Robert Gray II was born in Maine and moved to Missouri before 31 December 1860. 
 Robert Gray II has multiple Accolades including:
 
 - President Memorial Certificate
-- Approved Ancestor Sons of Union Veterans
+- [Approved Ancestor Sons of Union Veterans. ID: 214014](https://www.suvcwdb.org/index.php?r=site/showgrave&graveid=214014)
 - First Family of Nebraska
 - First Family of Oklahoma
 
@@ -20,5 +20,6 @@ SOURCES:
 
 
 - [Robert Gray II Obituary: The Harvard Courier 3 Oct 1903](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Harvard_Courier_Sat__Oct_3__1903_.pdf).
+- SUVCW Database
 
 
