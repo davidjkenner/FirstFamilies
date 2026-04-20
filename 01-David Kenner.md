@@ -8,7 +8,7 @@ David Kenner
 - Mother: [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)   `#1, #2, #3, #4` 
 
 - WID: 1776518586
-- National Number: 219515
+- National Number: [219515](https://sarpatriots.sar.org/member/display/219515)
 - State/Society: Maryland SAR
 - Chapter: Charles Carroll of Carrollton
 - NSSAR #:
