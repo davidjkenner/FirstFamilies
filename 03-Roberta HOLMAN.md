@@ -3,7 +3,7 @@ Roberta Isabelle Holman
 - Born: 1914  `#2, #3, #4`
 - Birth Place: Oklahoma `#3, #4` 
 - Marriage Date: 3 Feb 1933    `#1, #2`
-- Marriage Place: probably Louisana  #3
+- Marriage Place: probably Louisana  `#3`
 - Died: 
 - Burial Place:  
 - Spouse:  [Oscar Lee Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Lee%20BOWER.md)  `#1, #2`
