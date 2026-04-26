@@ -1,9 +1,9 @@
 David Kenner
 
 - Born: 17 June 1964  `#1, #2`
-- Birth Place: Poplar Bluff, Missouri    `#1, #2`
+- Birth Place: [Poplar Bluff](https://en.wikipedia.org/wiki/Poplar_Bluff,_Missouri), [Butler County](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)    `#1, #2`
 - Died: Living
-- Burial Place:  Living
+- Burial Place:  N/A
 - Father: [Jerome Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Jerome%20KENNER.md)    `#1, #2, #3, #4`
 - Mother: [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)   `#1, #2, #3, #4` 
 
