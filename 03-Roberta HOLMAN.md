@@ -9,7 +9,7 @@ Roberta Isabelle Holman
 - Spouse:  Oscar Lee Bower  `#1, #2`
 - Child:  [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)    `#1` 
 - Father:  [Robert Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20Holman.md)  `#3, #4`
-- Mother:  Evelyn F Holman  `#3, #4`  
+- Mother:  [Evalyn Frederica Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3, #4`  
 
 
 
