@@ -1,12 +1,30 @@
+Evalyn Frederica GRAY
 
-- [Isabel Pratt Obituary. The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
+- Born: 18 Feb 1870  `#1, #2`
+- Birth Place: Delaware, Otoe County, Nebraska  `#2, #4`
+- Spouse: Robert Holman  `#1`
+- Marriage Date:
+- Marriage Place
+- Died: 10 Feb 1965  `#1, #2, #3`
+- Burial Place:  Williamson Cemetery, Vidor, Orange County, Texas  `#1`
+- Father: Robert Gray  `#2, #4, #5, #6`
+- Mother: Isabelle Pratt  `#2, #4, #5, #6`
+- Child: Roberta Holman Bower  `#3`
 
-- [Evalyn Frederica Gray Texas Death Certificate: 11259](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/EvaGrayDeathCertificate.jpg).
 
-- [Roberta Holman Birth Certificate #18036 P.1](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P1.jpg)
 
-- [Roberta Holman Birth Certificate #18036 P.2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P2.jpg)
+SOURCES:
 
-- [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/1450809?tid=168012819&pid=272180029576&ssrc=pt).
+1. [Evalyn Gray Tombstone. FindAGrave Memorial ID: 33929975](https://www.findagrave.com/memorial/33929975/evalyn_frederica-holman)
+2. [Evalyn Frederica Gray Texas Death Certificate: 11259](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/EvaGrayDeathCertificate.jpg).
+3. [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Beaumont_Journal_1965_02_11_14.pdf)
+4. [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/1450809?tid=168012819&pid=272180029576&ssrc=pt).
+5. Roberta Holman Birth Certificate #18036. [Page1](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P1.jpg) ; [Page2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P2.jpg) .
+6. [Isabel Pratt Obituary. The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
 
-- [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Beaumont_Journal_1965_02_11_14.pdf)
+
+
+
+- 
+
+- 
