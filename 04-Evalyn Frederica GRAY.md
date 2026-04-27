@@ -23,8 +23,3 @@ SOURCES:
 6. [Isabel Pratt Obituary. The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
 
 
-
-
-- 
-
-- 
