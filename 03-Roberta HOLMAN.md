@@ -3,7 +3,7 @@ Roberta Isabelle Holman
 - Born: 30 August 1914  `#2, #3, #4, #6`
 - Birth Place: Willard, [Harper County](https://www.familysearch.org/en/wiki/Harper_County,_Oklahoma_Genealogy), [Oklahoma](https://www.familysearch.org/en/wiki/Oklahoma,_United_States_Genealogy) `#3, #4, #6` 
 - Marriage Date: 3 Feb 1933    `#1, #2`
-- Marriage Place: probably [Louisana](https://www.familysearch.org/en/wiki/Louisiana,_United_States_Genealogy)  `#3`
+- Marriage Place: probably [Beauregard Parish](https://www.familysearch.org/en/wiki/Beauregard_Parish,_Louisiana_Genealogy), [Louisana](https://www.familysearch.org/en/wiki/Louisiana,_United_States_Genealogy)  `#3`
 - Died: 
 - Burial Place:  
 - Spouse:  [Oscar Lee Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Lee%20BOWER.md)  `#1, #2, #5`
