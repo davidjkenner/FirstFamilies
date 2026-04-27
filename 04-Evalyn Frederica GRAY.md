@@ -4,7 +4,7 @@ Evalyn Frederica GRAY
 - Birth Place: Delaware, Otoe County, Nebraska  `#2, #4`
 - Spouse: Robert Holman  `#1`
 - Marriage Date: before 30 Aug 1913  `#5`
-- Marriage Place
+- Marriage Place: probably Oklahoma  `#5`
 - Died: 10 Feb 1965  `#1, #2, #3`
 - Burial Place:  Williamson Cemetery, Vidor, Orange County, Texas  `#1`
 - Father: Robert Gray  `#2, #4, #5, #6`
