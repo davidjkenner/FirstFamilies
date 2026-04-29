@@ -10,9 +10,8 @@ David Kenner
 - National Number: [219515](https://sarpatriots.sar.org/member/display/219515)
 - State/Society: Maryland SAR
 - Chapter: Charles Carroll of Carrollton
-- NSSAR #:
-- Society:
-- State Number:
+- Pedigree: https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DavidKenner-Pedigree.pdf
+
 
 
 SOURCES:
