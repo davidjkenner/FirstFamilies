@@ -7,6 +7,7 @@ Hannah Parker Hall Holman
 - Died: after 19 Oct 11 `#1`
 - Burial Place:  probably Nebraska  `#1`
 - Spouse:  J. S. Holman  `#1`
+- 2nd Spouse: Frank Hall  `#5, #2, #1`
 - Child:  [Robert James Holman III](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20Holman.md)  `#4`
 - Father: [Lyman Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Lyman%20PARKER.md?plain=1)  `#3`
 - Mother:  Elizabeth   `#3`
@@ -18,6 +19,7 @@ SOURCES:
 2. [State Historical Society of Iowa (Via Heritage Quest); Microfilm of Iowa State Censuses, 1856, 1885, 1895, 1905, 1915, 1925 As Well Various Special Censuses From 1836-1897](https://www.ancestry.com/search/collections/1084/records/6363087?tid=168012819&pid=272180029558&ssrc=pt)
 3. [Year: 1850; Census Place: Brandon, Oakland, Michigan; Roll: M432_360; Page: 345B; Image: 196](https://www.ancestry.com/search/collections/8054/records/3215568?tid=168012819&pid=272180028511&ssrc=pt)
 4. [Year: 1860; Census Place: Oxford, Oakland, Michigan; Page: 773; Family History Library Film: 803556](https://www.ancestry.com/search/collections/7667/records/45216518?tid=168012819&pid=272180029558&ssrc=pt)
+5. [Hannah H Holman & Frank E Hall Marriage Certificate](https://www.ancestry.com/search/collections/1171/records/510526523?tid=22054715&pid=132049675376&ssrc=pt)
 
 
 
