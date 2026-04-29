@@ -9,9 +9,10 @@ Roberta Isabelle Holman
 
 
 - Spouse:  [Oscar Lee Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Lee%20BOWER.md)  `#1, #2, #5`
-- Child:  https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md    `#1` 
-- Father:  https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20Holman.md  `#3, #4, #6`
-- Mother:  https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md  `#3, #4, #5, #6` 
+- Child:  [Marie Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)    `#1` 
+- Father:   [Robert Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20Holman.md)  `#3, #4, #6`
+- Mother:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3, #4, #5, #6` 
+
 
 
 
