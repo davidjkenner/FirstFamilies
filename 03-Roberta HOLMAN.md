@@ -5,7 +5,17 @@ Roberta Isabelle Holman
 - Marriage Date: 3 Feb 1933    `#1, #2`
 - Marriage Place: probably [Beauregard Parish](https://www.familysearch.org/en/wiki/Beauregard_Parish,_Louisiana_Genealogy), [Louisana](https://www.familysearch.org/en/wiki/Louisiana,_United_States_Genealogy)  `#3`
 - Died: 
-- Burial Place:  
+- Burial Place:
+
+
+- Spouse:  [Oscar Lee Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Lee%20BOWER.md)  `#1, #2, #5`
+- Child:  https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md    `#1` 
+- Father:  https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20Holman.md  `#3, #4, #6`
+- Mother:  https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md  `#3, #4, #5, #6` 
+
+
+
+
 - Spouse:  [Oscar Lee Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Lee%20BOWER.md)  `#1, #2, #5`
 - Child:  [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)    `#1` 
 - Father:  [Robert Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20Holman.md)  `#3, #4, #6`
