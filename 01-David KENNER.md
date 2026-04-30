@@ -7,9 +7,7 @@ David Kenner
 - Father: [Jerome Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Jerome%20KENNER.md)    `#1, #2, #3, #4`
 - Mother: [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)   `#1, #2, #3, #4` 
 - WID: 1776518586
-- National Number: [219515](https://sarpatriots.sar.org/member/display/219515)
-- State/Society: [Maryland](https://mdssar.org/events), [SAR](https://www.sar.org/)
-- Chapter: [Charles Carroll of Carrollton](https://mdssar.org/chapters/carrollton)
+- State/Society: [Maryland](https://mdssar.org/events), [SAR](https://www.sar.org/) , Chapter: [Charles Carroll of Carrollton](https://mdssar.org/chapters/carrollton) , National Number: [219515](https://sarpatriots.sar.org/member/display/219515)
 - Pedigree: https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DavidKenner-Pedigree.pdf
 
 
