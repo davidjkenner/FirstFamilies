@@ -8,7 +8,7 @@ David Kenner
 - Mother: [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)   `#1, #2, #3, #4` 
 - WID: 1776518586
 - State/Society: [Maryland](https://mdssar.org/events), [SAR](https://www.sar.org/) , Chapter: [Charles Carroll of Carrollton](https://mdssar.org/chapters/carrollton) , National Number: [219515](https://sarpatriots.sar.org/member/display/219515)
-- [Maryland](https://md1812.org/), [General Society of War of 1812](https://gswar1812.org/), 
+- [Maryland](https://md1812.org/) #1046 [General Society of War of 1812](https://gswar1812.org/), David Kenner ID #8084 
 - Pedigree: https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DavidKenner-Pedigree.pdf
 
 
