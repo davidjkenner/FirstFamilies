@@ -9,7 +9,8 @@ David Kenner
 - WID: 1776518586
 - State/Society: [Maryland](https://mdssar.org/events), [SAR](https://www.sar.org/) , Chapter: [Charles Carroll of Carrollton](https://mdssar.org/chapters/carrollton) , National Number: [219515](https://sarpatriots.sar.org/member/display/219515)
 - [Maryland](https://md1812.org/) #1046 [General Society of War of 1812](https://gswar1812.org/), David Kenner ID #8084
-- [Sons of Confederate Veterans](https://scv.org/), [Trimble Camp #1836](https://www.mdscv.org/1836/), [Maryland](https://www.mdscv.org/MDSCV.org/Home.html),  
+- [Sons of Confederate Veterans](https://scv.org/), [Trimble Camp #1836](https://www.mdscv.org/1836/), [Maryland](https://www.mdscv.org/MDSCV.org/Home.html),
+- [Sons of Union Veterans](https://suvcw.org/) , 
 - Pedigree: https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DavidKenner-Pedigree.pdf
 
 
