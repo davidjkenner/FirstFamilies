@@ -1,7 +1,7 @@
 George Wilson
 
 - Born: 18 June 1949  `#2`
-- Birth Place: Tennessee  `#2`
+- Birth Place: [Henry County](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), Tennessee  `#2`
 - Died: 18 June 1848  `#1`
 - Burial:  Bennett Cemetery, Bennett, Ripley County, Missouri  `#1`
 - Spouse:  [Jemima Wilson ](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Jemima%20Richardson.md) `#2, #4`
