@@ -6,17 +6,10 @@ Roberta Isabelle Holman
 - Marriage Place: probably [Beauregard Parish](https://www.familysearch.org/en/wiki/Beauregard_Parish,_Louisiana_Genealogy), [Louisana](https://www.familysearch.org/en/wiki/Louisiana,_United_States_Genealogy)  `#3`
 - Died: 
 - Burial Place:
-
-
 - Spouse:  [Oscar Lee Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Lee%20BOWER.md)  `#1, #2, #5`
 - Child:  [Marie Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)    `#1` 
 - Father:   [Robert Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20Holman.md)  `#3, #4, #6`
 - Mother:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3, #4, #5, #6` 
-
-
-
-
-
 - Spouse:  [Oscar Lee Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Lee%20BOWER.md)  `#1, #2, #5`
 - Child:  [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)    `#1` 
 - Father:  [Robert Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20Holman.md)  `#3, #4, #6`
@@ -33,3 +26,5 @@ SOURCES:
 5. [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Beaumont_Journal_1965_02_11_14.pdf)
 6. Roberta Holman Birth Certificate: [Page 1](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P1.jpg); [Page 2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P2.jpg). 
 
+ACCOLADES:
+- Oklahoma First Families: Settler and Builder No. 43
