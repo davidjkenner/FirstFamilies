@@ -21,17 +21,10 @@ SOURCES:
 5. [Hannah H Holman & Frank E Hall Marriage Certificate](https://www.ancestry.com/search/collections/1171/records/510526523?tid=22054715&pid=132049675376&ssrc=pt)
 
 ACCOLADES:
-- Presidential Memorial Certificate
-- Arkansas First Families
-- Illinios First Families
 - Iowa First Families
-- Michigan First Families
-- Missouri First Families
-- Oklahoma First Families
-- Ohio First Families
-- Nebraska First Families
-- Tennessee First Families
-- Wisconsin First Families
-- Land Grants
-- Namesake
+- Michigan First Families Certificate # F-027
+- Oklahoma First Families Member No. 4652
+- Nebraska First Families: Certificate #23-001
+- Land Grants: No. 1303 160 Acres 
+
 
