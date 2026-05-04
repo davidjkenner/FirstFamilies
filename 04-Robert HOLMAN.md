@@ -9,7 +9,7 @@ Robert James Holman
 - Father:  James Holman  `#2`
 - Mother:  [Hannah Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Hannah%20PARKER.md?plain=1)  `#2`
 - Spouse:  [Evalyn Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3`
-- Child:  [Roberta Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Roberta%20HOLMAN.md)  
+- Child:  [Roberta Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Roberta%20HOLMAN.md)  `#3`
 
 
 SOURCES:
