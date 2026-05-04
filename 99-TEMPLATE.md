@@ -14,3 +14,12 @@ NAME
 
 
 SOURCES:
+
+
+ACCOLADES
+- Presidential Memorial Certificate
+- Missouri First Families
+- Oklahoma First Families
+- Ohio First Families
+- Land Grants
+- Namesake
