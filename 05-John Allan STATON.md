@@ -9,7 +9,7 @@ John Allan STATON
 - Burial Place:  
 - Father: Charles Staton  `#1`
 - Mother:  Martha A Staton  `#1`
-- Child:
+- Child: [Martha Staton](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Martha%20Ann%20STATON.md)
 
 
 
