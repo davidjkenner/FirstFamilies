@@ -1,15 +1,15 @@
 Marshall L Pratt
 
-- Born: 1811  `#1`
-- Birth Place:
-- Spouse:
-- Marriage Date:
-- Marriage Place
+- Born: 1811  `#1, #3`
+- Birth Place: Massachusetts  `#3`
+- Spouse:  Fredricka  `#3`
+- Marriage Date: before 1841  `#3`
+- Marriage Place:  probably Illinois  `#3`
 - Died: 6 Mar 1879 
 - Burial Place:  [Wyuka Cemetery](https://www.findagrave.com/cemetery/101646/wyuka-cemetery) Nebraska City,  Otoe County,  Nebraska
 - Father: 
 - Mother:
-- Child:  [Isabell Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Isabell%20PRATT.md)
+- Child:  [Isabell Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Isabell%20PRATT.md) `#3`
 - Residence: 9 October, 1838 Michigan-Toledo Strip, Calhoun County, Michagan `#2`
 
 
@@ -17,7 +17,8 @@ Marshall L Pratt
 SOURCES:
 1. Marshall L Pratt Tombstone. FindAGrave [Memorial ID 97483970](https://www.findagrave.com/memorial/97483970/marshall-lincoln-pratt)
 2. [MI1250__.479](https://glorecords.blm.gov/details/patent/default.aspx?accession=MI1250__.479&docClass=STA&sid=y4vhw4bs.eqv) (160 acres)
-3. FamilySearch ID: [2SH9-BT4](https://www.familysearch.org/en/tree/person/about/2SH9-BT4)
+3. [Year: 1850; Census Place: Highland, Iowa, Wisconsin; Roll: 999; Page: 368A](https://www.ancestry.com/search/collections/8054/records/9024566?tid=168012819&pid=272180028408&ssrc=pt)
+4. FamilySearch ID: [2SH9-BT4](https://www.familysearch.org/en/tree/person/about/2SH9-BT4)
 
 ACCOLADES:
 - Illinios First Families (Pending)
