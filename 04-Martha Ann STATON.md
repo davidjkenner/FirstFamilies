@@ -1,3 +1,41 @@
+Martha Ann Staton
+
+- Born: 25 Aug. 1870  `#1`
+- Birth Place:
+- Spouse:
+- Marriage Date:
+- Marriage Place
+- Died: 20 Dec. 1973  `#1`  
+- Burial Place:    [Shirley Cemetery](https://www.findagrave.com/cemetery/31568/shirley-cemetery) Briar,  Ripley County,  Missouri,    `#1`
+- Father: 
+- Mother:
+- Child:
+
+
+
+SOURCES:
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [252386356](https://www.findagrave.com/memorial/252386356/martha_ann_kenner)
+2. [FamilySearch](https://www.familysearch.org/en/search/): ID
+
+
+ACCOLADES:
+- Presidential Memorial Certificate
+- [Arkansas First Families](http://agsgenealogy.org/ancestrycert/default.html):
+- [Illinios First Families](https://ilgensoc.org):
+- [Indiania First Families](https://indianapioneers.org):
+- [Iowa First Families](https://iowagenealogy.org):
+- [Michigan First Families](http://data.mimgc.org):
+- [Missouri First Families](https://mosga.org): 
+- [Nebraska First Families](https://nsgs.org/):  https://nebraskaancestors.org/projects/database-search-results/
+- [Oklahoma First Families](https://okgensoc.org):
+- [Ohio First Families](https://www.ogs.org):
+- [Pennsylvania First Families](https://genpa.org):
+- [Tennessee First Families](https://tngs.org/):
+- [Wisconsin First Families](https://wsgs.org/cpage.php?pt=212):
+- [Land Grants](https://glorecords.blm.gov/search/default.aspx):
+- Namesake
+
+
 
 - [1880; Census Place: Poplar Bluff, Butler, Missouri; Roll: 676; Page: 547D; Enumeration District: 010](https://www.ancestry.com/search/collections/6742/records/48315220?tid=168012819&pid=272180029400&ssrc=pt).
 
