@@ -17,16 +17,10 @@ SOURCES:
 
 
 ACCOLADES:
-- Presidential Memorial Certificate
-- Arkansas First Families
-- Illinios First Families
+- Illinios First Families ((Pending)
 - Iowa First Families
 - Michigan First Families
-- Missouri First Families
-- Oklahoma First Families
-- Ohio First Families
-- Nebraska First Families
-- Tennessee First Families
-- Wisconsin First Families
-- Land Grants
-- Namesake
+- Nebraska First Families Certificate #23-002
+- Wisconsin First Families: Pioneer Family Certificatte
+- Land Grants: 17,492  160 acres
+
