@@ -10,7 +10,7 @@ Marshall L Pratt
 - Father: 
 - Mother:
 - Child:
-- Residence: Michigan-Toledo Strip, Calhoun County, Michagan `#2`
+- Residence: 9 October, 1838 Michigan-Toledo Strip, Calhoun County, Michagan `#2`
 
 
 
