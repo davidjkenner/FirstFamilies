@@ -23,6 +23,7 @@ SOURCES:
 4. [Jerome Kenner Obituraury: Daily American Republic 11 March 2020](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DAR-2674770.JPG).
 5. [David Kenner SAR](https://sarpatriots.sar.org/member/display/219515)
 6. [FamilySearch](https://www.familysearch.org/en/search/): ID [LR6S-78B](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B)
+7. Wikitree: https://www.wikitree.com/wiki/Kenner-232
 
 
 
