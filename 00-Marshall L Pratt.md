@@ -17,6 +17,7 @@ Marshall L Pratt
 SOURCES:
 1. Marshall L Pratt Tombstone. FindAGrave [Memorial ID 97483970](https://www.findagrave.com/memorial/97483970/marshall-lincoln-pratt)
 2. [MI1250__.479](https://glorecords.blm.gov/details/patent/default.aspx?accession=MI1250__.479&docClass=STA&sid=y4vhw4bs.eqv) (160 acres)
+3. FamilySearch ID: [2SH9-BT4](https://www.familysearch.org/en/tree/person/about/2SH9-BT4)
 
 ACCOLADES:
 - Illinios First Families (Pending)
