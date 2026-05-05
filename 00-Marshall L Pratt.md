@@ -17,7 +17,7 @@ SOURCES:
 
 
 ACCOLADES:
-- Illinios First Families ((Pending)
+- Illinios First Families (Pending)
 - Iowa First Families
 - Michigan First Families (Pending)
 - Nebraska First Families Certificate #23-002
