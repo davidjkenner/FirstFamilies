@@ -2,7 +2,7 @@ Isabell Pratt
 
 - Born: 
 - Birth Place:
-- Spouse:
+- Spouse: [Robert Gray II](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Robert%20GRAY.md?plain=1)
 - Marriage Date:
 - Marriage Place
 - Died: 
