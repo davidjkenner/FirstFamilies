@@ -1,5 +1,4 @@
 Robert S HOLMAN
-
 - Born: 
 - Birth Place:
 - Spouse:
