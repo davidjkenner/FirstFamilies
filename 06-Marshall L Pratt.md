@@ -9,7 +9,7 @@ Marshall L Pratt
 - Burial Place:  [Wyuka Cemetery](https://www.findagrave.com/cemetery/101646/wyuka-cemetery) Nebraska City,  Otoe County,  Nebraska
 - Father: 
 - Mother:
-- Child:
+- Child:  [Isabell Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Isabell%20PRATT.md)
 - Residence: 9 October, 1838 Michigan-Toledo Strip, Calhoun County, Michagan `#2`
 
 
