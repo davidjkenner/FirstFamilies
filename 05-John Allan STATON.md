@@ -2,7 +2,7 @@ John Allan STATON
 
 - Born:  1849  `#1, #2` 
 - Birth Place:  Kentucky  `#1, #2`
-- Spouse:  Susanna Emerson   `#2, #3`
+- Spouse:  [Susanna Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Susannah%20EMERSON.md)   `#2, #3`
 - Marriage Date:  18 Sept 1869  `#2, #3`
 - Marriage Place:  Johnson County, Illinois  `#3`
 - Died: 
