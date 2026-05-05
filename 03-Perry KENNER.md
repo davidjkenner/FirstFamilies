@@ -6,10 +6,9 @@ Perry Kenner
 - Burial:  Poplar Bluff City Cemetery, Poplar Bluff, Butler County, Missouri  `#4`
 - Spouse:  [Ina Seymore](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Ina%20SEYMORE.md) `#3` 
 - Marriage Date: before 1930  `#5`
-- Child:  [Jerome Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Jerome%20KENNER.md)  `#2`
 - Father:   [George T Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/04-George%20KENNER.md)  `#1, #3`
 - Mother:  [Martha Ann Staton](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Martha%20Ann%20STATON.md)  `#1, #3`
-
+- Child:  [Jerome Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Jerome%20KENNER.md)  `#2`
 
 
 SOURCES:
