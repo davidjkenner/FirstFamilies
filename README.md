@@ -18,7 +18,7 @@ RESOURCES:
 - [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php)
 - [Iowa](https://iowagenealogy.org/surname.php)
 - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
-- [Illinois](https://ilgensoc.org/cpage.php?pt=599)
+- [Johnson County](https://johnsonctyilgenhist.org/), [Illinois](https://ilgensoc.org/cpage.php?pt=599)
 - [Indiana](https://indianapioneers.org/ancestors/)
 - [Ohio](https://www.ogs.org/search-databases/)
 - [Tennessee](https://tngs.org/TCD)
