@@ -22,7 +22,7 @@ SOURCES:
 
 ACCOLADES:
 - Iowa First Families
-- Michigan First Families Certificate # F-027
+- Michigan First Families Certificate # [F-027](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/F027%20docs.pdf)
 - Oklahoma First Families Member No. 4652
 - Nebraska First Families: Certificate #23-001
 - Land Grants: No. 1303 160 Acres 
