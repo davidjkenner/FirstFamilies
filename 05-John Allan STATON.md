@@ -20,10 +20,17 @@ SOURCES:
 3. [John Allen Staton & Susannah Emerson Marriage Certificate](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/StatonEmersonMarriageCertificate.jpg)
 
 
-- 
 
 
 
-- 
 
-- 
+
+SOURCES:
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
+2. [FamilySearch](https://www.familysearch.org/en/search/): ID
+
+
+ACCOLADES:
+- [Illinios First Families](https://ilgensoc.org): (Pending)
+- [Missouri First Families](https://mosga.org)
+
