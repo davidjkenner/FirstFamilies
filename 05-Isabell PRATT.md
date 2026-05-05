@@ -9,7 +9,7 @@ Isabell Pratt
 - Burial Place:  
 - Father: 
 - Mother:
-- Child:
+- Child:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)
 
 
 
