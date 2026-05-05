@@ -7,7 +7,7 @@ Isabell Pratt
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: 
+- Father:  [Marshall L Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Marshall%20L%20Pratt.md) 
 - Mother:
 - Child:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)
 
