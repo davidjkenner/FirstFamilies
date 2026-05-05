@@ -19,7 +19,7 @@ SOURCES:
 ACCOLADES:
 - Illinios First Families ((Pending)
 - Iowa First Families
-- Michigan First Families
+- Michigan First Families (Pending)
 - Nebraska First Families Certificate #23-002
 - Wisconsin First Families: Pioneer Family Certificatte
 - Land Grants: 17,492  160 acres
