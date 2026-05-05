@@ -2,14 +2,14 @@ Martha Ann Staton
 
 - Born: 25 Aug. 1870  `#1`
 - Birth Place:
-- Spouse:
+- Spouse:  [George Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/04-George%20KENNER.md)
 - Marriage Date:
 - Marriage Place
 - Died: 20 Dec. 1973  `#1`  
 - Burial Place:    [Shirley Cemetery](https://www.findagrave.com/cemetery/31568/shirley-cemetery) Briar,  Ripley County,  Missouri,    `#1`
-- Father: 
-- Mother:
-- Child:
+- Father:  [John Allan Staton](https://github.com/davidjkenner/FirstFamilies/blob/main/05-John%20Allan%20STATON.md) 
+- Mother:  [Susannah Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Susannah%20EMERSON.md)
+- Child:  [Perry Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Perry%20KENNER.md)
 
 
 
