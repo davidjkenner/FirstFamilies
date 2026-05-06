@@ -15,7 +15,7 @@ NAME
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
-2. [FamilySearch](https://www.familysearch.org/en/search/): ID
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
 
 
 ACCOLADES:
