@@ -4,11 +4,11 @@ Elizabeth HOWELL EMERSON
 
 - Born: 
 - Birth Place:
-- Spouse:
+- Spouse:  Henry Harvey Emerson  `#1`
 - Marriage Date:
 - Marriage Place
 - Died: 
-- Burial Place:  
+- Burial Place:  [ Black Creek Cemetery](https://www.findagrave.com/cemetery/27611/black-creek-cemetery) Poplar Bluff,  Butler County,  Missouri
 - Father: 
 - Mother:
 - Child:  [Susannah Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Susannah%20EMERSON.md)
