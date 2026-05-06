@@ -7,7 +7,7 @@ Henry Harvey EMERSON
 - Marriage Place: Illinois  `#3`
 - Residence:  Illinois 1843 -1870  `#3, #4, #5`
 - Died: 
-- Burial Place:  [ Black Creek Cemetery](https://www.findagrave.com/cemetery/27611/black-creek-cemetery) Poplar Bluff,  Butler County,  Missouri
+- Burial Place:  [ Black Creek Cemetery](https://www.findagrave.com/cemetery/27611/black-creek-cemetery) Poplar Bluff,  [Butler](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy),  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy")
 - Father: 
 - Mother:
 - Child:  [Susannah Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Susannah%20EMERSON.md)  `#4, #5, #6`
