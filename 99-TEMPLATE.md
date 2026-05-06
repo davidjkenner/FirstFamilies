@@ -20,7 +20,7 @@ SOURCES:
 
 ACCOLADES:
 - Presidential Memorial Certificate
-- [Arkansas First Families](http://agsgenealogy.org/ancestrycert/default.html):
+- [Arkansas First Families](http://agsgenealogy.org/ancestrycert/default.html): [Randolph](https://www.familysearch.org/en/wiki/Randolph_County,_Arkansas_Genealogy "Randolph County, Arkansas Genealogy"), [Arkansas](https://www.familysearch.org/en/wiki/Arkansas,_United_States_Genealogy "Arkansas, United States Genealogy")
 - [Illinios First Families](https://ilgensoc.org): [Johnson](https://johnsonctyilgenhist.org/), 
 - [Indiania First Families](https://indianapioneers.org):
 - [Iowa First Families](https://iowagenealogy.org):
