@@ -16,8 +16,8 @@ Elizabeth HOWELL EMERSON
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
-2. [FamilySearch](https://www.familysearch.org/en/search/): ID
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID  [64178400](https://www.findagrave.com/memorial/64178400/elizabeth-c-emerson)
+2. [FamilySearch](https://www.familysearch.org/en/search/): ID  [KVGN-S44](https://www.familysearch.org/en/tree/person/details/KVGN-S44)
 3. [Susannah Emerson Death Certificate. File No. 28833](https://www.sos.mo.gov/images/archives/deathcerts/1918/1918_00029953.PDF)
 4. [Year: 1860; Census Place: Township 13 S Range 3 E, Johnson, Illinois; Roll: M653_190; Page: 206; Family History Library Film: 803190](https://www.ancestry.com/search/collections/7667/records/37414216?tid=168012819&pid=272180029411&ssrc=pt)
 5. [John Allen Staton & Susannah Emerson Marriage Certificate](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/StatonEmersonMarriageCertificate.jpg)
