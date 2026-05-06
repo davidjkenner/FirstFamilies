@@ -1,12 +1,12 @@
 Henry Harvey EMERSON
 
-- Born: 
+- Born: 12 Jun 1820  `#1`
 - Birth Place: 
 - Spouse:  
 - Marriage Date: 
 - Marriage Place: Illinois  `#3`
 - Residence:  Illinois 1843 -1870  `#3, #4, #5`
-- Died: 
+- Died:  10 Sep 1902  `#1`
 - Burial Place:  [ Black Creek Cemetery](https://www.findagrave.com/cemetery/27611/black-creek-cemetery) Poplar Bluff,  [Butler](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy),  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy")
 - Father: 
 - Mother:
@@ -15,8 +15,8 @@ Henry Harvey EMERSON
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID  [64178400](https://www.findagrave.com/memorial/64178400/elizabeth-c-emerson)
-2. [FamilySearch](https://www.familysearch.org/en/search/): ID  [KVGN-S44](https://www.familysearch.org/en/tree/person/details/KVGN-S44)
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID  [64176129](https://www.findagrave.com/memorial/64176129/henry_harvey-emerson)
+2. [FamilySearch](https://www.familysearch.org/en/search/): ID  [LZVT-YYS](https://www.familysearch.org/en/tree/person/about/LZVT-YYS)
 3. [Henry Harvey Emerson Obiturary Daily American Republic 18 Sept 1902](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Daily_Republican_1902_09_18_1.pdf)
 4. [Susannah Emerson Death Certificate. File No. 28833](https://www.sos.mo.gov/images/archives/deathcerts/1918/1918_00029953.PDF)
 5. [Year: 1860; Census Place: Township 13 S Range 3 E, Johnson, Illinois; Roll: M653_190; Page: 206; Family History Library Film: 803190](https://www.ancestry.com/search/collections/7667/records/37414216?tid=168012819&pid=272180029411&ssrc=pt)
