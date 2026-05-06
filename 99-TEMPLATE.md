@@ -26,7 +26,7 @@ ACCOLADES:
 - [Iowa First Families](https://iowagenealogy.org):
 - [Michigan First Families](http://data.mimgc.org):
 - [Missouri First Families](https://mosga.org): 
-- [Nebraska First Families](https://nsgs.org/):  https://nebraskaancestors.org/projects/database-search-results/
+- [Nebraska First Families](https://nebraskaancestors.org/projects/database-search-results/):  
 - [Oklahoma First Families](https://okgensoc.org):
 - [Ohio First Families](https://www.ogs.org):
 - [Pennsylvania First Families](https://genpa.org):
