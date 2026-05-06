@@ -27,4 +27,5 @@ SOURCES:
 
 ACCOLADES:
 
-- [Illinios First Families](https://ilgensoc.org): Pending
+- [Illinios First Families](https://ilgensoc.org)
+- Land Grant
