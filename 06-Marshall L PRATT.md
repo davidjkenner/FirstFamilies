@@ -5,7 +5,7 @@ Marshall L Pratt
 - Spouse:  Fredricka  `#3`
 - Marriage Date: before 1841  `#3`
 - Marriage Place:  probably Illinois  `#3`
-- Died: 6 Mar 1879 
+- Died: 6 Mar 1879  `#1`
 - Burial Place:  [Wyuka Cemetery](https://www.findagrave.com/cemetery/101646/wyuka-cemetery) Nebraska City,  Otoe County,  Nebraska
 - Father: 
 - Mother:
