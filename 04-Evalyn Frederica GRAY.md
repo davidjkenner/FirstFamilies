@@ -2,14 +2,14 @@ Evalyn Frederica GRAY
 
 - Born: 18 Feb 1870  `#1, #2`
 - Birth Place: Delaware, Otoe County, Nebraska  `#2, #4`
-- Spouse: Robert Holman  `#1`
+- Spouse: [Robert Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20HOLMAN.md)  `#1`
 - Marriage Date: before 30 Aug 1913  `#5`
 - Marriage Place: probably Oklahoma  `#5`
 - Died: 10 Feb 1965  `#1, #2, #3`
 - Burial Place:  Williamson Cemetery, Vidor, Orange County, Texas  `#1`
-- Father: Robert Gray  `#2, #4, #5, #6`
-- Mother: Isabelle Pratt  `#2, #4, #5, #6`
-- Child: Roberta Holman Bower  `#3`
+- Father: [Robert Gray II](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Robert%20GRAY.md?plain=1)  `#2, #4, #5, #6`
+- Mother: [Isabelle Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Isabell%20PRATT.md)  `#2, #4, #5, #6`
+- Child: [Roberta Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Roberta%20HOLMAN.md)  `#3`
 
 
 
@@ -22,4 +22,8 @@ SOURCES:
 5. Roberta Holman Birth Certificate #18036. [Page1](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P1.jpg) ; [Page2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P2.jpg) .
 6. [Isabel Pratt Obituary. The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
 
-
+ACCOLADES:
+- Michigan First Families Certificate # [F-012](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/F012%20docs.pdf)
+- Oklahoma First Families: Settler and Builder No. 45
+- Land Grants: 142273   160 acres; # 10522  147 acres
+- Nebraska First Families Certificate #20-002
