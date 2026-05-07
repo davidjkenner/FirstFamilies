@@ -8,7 +8,7 @@ Hannah Parker Hall Holman
 - Spouse:  J. S. Holman  `#1`
 - Child:  [Robert James Holman III](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20HOLMAN.md)  `#4`
 - Father: [Lyman Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Lyman%20PARKER.md?plain=1)  `#3`
-- Mother:  Elizabeth   `#3`
+- Mother:  [Elizabeth Chase](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elizabeth%20CHASE.md)   `#3`
 - 2nd Spouse: Frank Hall  `#5, #2, #1`
 - Residence: 1885 • [Braddyville](https://en.wikipedia.org/wiki/Braddyville,_Iowa), [Page County](https://www.familysearch.org/en/wiki/Page_County,_Iowa_Genealogy), [Iowa](https://www.familysearch.org/en/wiki/Iowa,_United_States_Genealogy)  `#2`
 
