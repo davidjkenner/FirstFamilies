@@ -23,7 +23,5 @@ SOURCES:
 6. [Isabel Pratt Obituary. The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
 
 ACCOLADES:
-- Michigan First Families Certificate # [F-012](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/F012%20docs.pdf)
 - Oklahoma First Families: Member No 4652
-- Land Grants: 142273   160 acres; # 10522  147 acres
 - Nebraska First Families Certificate #20-002
