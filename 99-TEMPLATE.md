@@ -30,7 +30,7 @@ ACCOLADES:
 - [Oklahoma First Families](https://okgensoc.org):
 - [Ohio First Families](https://www.ogs.org):
 - [Pennsylvania First Families](https://genpa.org):
-- [Tennessee First Families](https://tngs.org/):
+- [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
 - [Wisconsin First Families](https://wsgs.org/cpage.php?pt=212):
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 - Namesake
