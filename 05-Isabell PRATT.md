@@ -7,7 +7,7 @@ Isabell Pratt
 - Marriage Place:  Nebraska  `#2`
 - Died:  29 Jul 1917  `#1, #2` 
 - Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1, #2`
-- Father:  [Marshall L Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Marshall%20L%20Pratt.md)  `#4` 
+- Father:  [Marshall L Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Marshall%20L%20PRATT.md)  `#4` 
 - Mother:  Fredericka  `#4`
 - Child:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#2`
 
