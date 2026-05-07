@@ -6,6 +6,7 @@ George Wilson
 - Burial:  Bennett Cemetery, Bennett, [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#1`
 - Spouse:  [Jemima Wilson ](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Jemima%20Richardson.md) `#2, #4`
 - Marriage Date: before 1878  `#3`
+- Marriage Place: [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), Tennessee  `#4`
 - Child:  [Aulsy J. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Aulsy%20Wilson.md)  `#3`
 - Father: William Wilson  `#2`
 - Mother: Virginia Periehouse  `#2`
