@@ -20,6 +20,7 @@ SOURCES:
 2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [L4T7-3GT](https://www.familysearch.org/en/tree/person/about/L4T7-3GT)
 3. Daughters of the American Revolution Descendent Number [351873](https://services.dar.org/public/dar_research/search_descendants/?action=list&MyPrimary_Seqn=351873&MyLineageCount=1&Control_Min_Seqn=351873)
 4. Wikitree: [Swindell-211](https://www.wikitree.com/wiki/Swindell-211)
+5. Germanna Person ID	[I046489](http://germannafamily.org/getperson.php?personID=I046489&tree=tree1) 
 
 
 ACCOLADES:
