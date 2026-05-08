@@ -25,7 +25,7 @@ SOURCES:
 6. [Year: 1850; Census Place: Highland, Iowa, Wisconsin; Roll: M432_999; Page: 368A; Image: 343](https://www.ancestry.com/search/collections/8054/records/9024571?tid=168012819&pid=272180029567&ssrc=pt)
 7. [MW-0984-417](https://glorecords.blm.gov/details/patent/default.aspx?accession=0984-417&docClass=MW&sid=ivydenqu.xf4) (160 acres)
 8. [Wisconsin Historical Society; Madison, Wisconsin; Census Year: 1855; Roll: 2](https://www.ancestry.com/search/collections/1055/records/3662543?tid=168012819&pid=272180028408&ssrc=pt)
-9. [Michigan, Homestead and Cash Entry Patents, Pre-1908](https://www.ancestry.com/search/collections/2075/records/61758?tid=168012819&pid=272180028408&ssrc=pt)
+9. [Michigan, Homestead and Cash Entry Patents, Pre-1908. Document Number 7564](https://www.ancestry.com/search/collections/2075/records/61758?tid=168012819&pid=272180028408&ssrc=pt)
 
 ACCOLADES:
 - Illinios First Families (Pending)
