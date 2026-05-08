@@ -1,57 +1,31 @@
 Joseph Swindell
 
-- Born:
-- Birth Place:
-- Marriage Date:
-- Marriage Place:
-- Died:
-- Burial Place:
+Joseph Swindle was born in the Fort Germanna community in central Virginia. His parents were both from the Germman community. The Germanna people were immigrants in 1714-1717 to central VA. The were all Germans, and spoke German, and their church was Hebron Lutheran Church, in Madison, VA which still exists. All service4s and records were in German. Joseph's parents migrated from central VA through Rockingham Co NC, to their eventual permanent settlement at Boone Co, KY where they both died and are buried.
+Joseph Swindle's name was spelled as SWINDELL, probably chosen by his children as a prefered form. His wife was Mary BROWN, who was also of a German family line.
+Died at age 71 years old. Joseph Swindle raised his own large family in Monroe Co Missouri, but also raised my ancestor, Nancy Weaver Swindle, who was sent to him to be raised when she was a teenager. Her father was John Swindle, Jr the brother of Joseph. She came from Ashe Co NC.
+
+- Born:  11 Jan 1772  `#1`
+- Birth Place:  Madison County, Virginia  `#3`
+- Marriage Date:  2 - Oct - 1797  `#3`
+- Marriage Place:  Madison County, Virginia  `#3`
+- Died:  14 Sep 1843  `#1`
+- Burial Place:  [Swindell Cemetery](https://www.findagrave.com/cemetery/31874/swindell-cemetery), Madison,  Monroe County,  Missouri   `#1` 
 - Father:  [John SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/09-John%20Swindell.md)  
-- Mother:
-- Spouse:  [Mary Ann BROWN](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Mary%20Ann%20BROWN.md?plain=1)
+- Mother:  Hannah WEAVER    `#3`
+- Spouse:  [Mary Ann BROWN](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Mary%20Ann%20BROWN.md?plain=1)    `#1`
 - Child:  [Elizabeth SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/07-Elizabeth%20SWINDELL.md)
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [92034642](https://www.findagrave.com/memorial/92034642/mary-ann-swindell)
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [L2ZG-WX5](https://www.familysearch.org/en/tree/person/details/L2ZG-WX5)
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [44642652](https://www.findagrave.com/memorial/44642652/joseph-swindell)
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [L4T7-3GT](https://www.familysearch.org/en/tree/person/about/L4T7-3GT)
 3. Daughters of the American Revolution Descendent Number [351873](https://services.dar.org/public/dar_research/search_descendants/?action=list&MyPrimary_Seqn=351873&MyLineageCount=1&Control_Min_Seqn=351873)
 
 
 ACCOLADES:
-- [Missouri First Families](https://mosga.org): Pending
+- [Missouri First Families](https://mosga.org)
 
 
-[DAR Genealogical Research Databases](https://services.dar.org/public/dar_research/search_member/?Action=full&National_Number=753319)
 
-![](https://services.dar.org/pics/adb/blank.gif)  **Ancestor**:  [SWINDLE, JOHN (A112056)](https://services.dar.org/public/dar_research/search_descendants/?action=findlist&p_id=A112056&National_Number=753319)
 
-Ancestors (Revolutionary)
 
-[Purchase Associated Record Copy](https://services.dar.org/public/dar_research/record_copy/?action=search&source=1&p_ID=A112056&M_ID=753319)
 
-[**SWINDLE**, JOHN](https://services.dar.org/public/dar_research/search_adb/?action=full&p_id=A112056)
-
-Ancestor #:  [A112056](https://services.dar.org/public/dar_research/search_adb/?action=full&p_id=A112056)
-
-Service:	VIRGINIA Rank(s): PRIVATE
-
-Child/Child :
-
-JOSEPH / [1] MARY ANN BROWN
-Birth:	1746 ORANGE CO VIRGINIA
-Death:	8-20-1839 BOONE CO KENTUCKY
-Pension Number:	S*W8774
-Service Source:	S*W8774
-Service Description:
-
-**1)** CAPTS HILL, WOOD, STAUNTON  
-**2)** COLS BARBOUR, ALCOCK
-
-_____________________________________________________________
-
-[DAR Genealogical Research Databases](https://services.dar.org/public/dar_research/search_member/?Action=full&National_Number=927037)
-Add Volume: 1286
-
-[DAR Genealogical Research Databases](https://services.dar.org/public/dar_research/search_member/?Action=full&National_Number=942973)
-Add Volume: 1399
-______________________________________________________
