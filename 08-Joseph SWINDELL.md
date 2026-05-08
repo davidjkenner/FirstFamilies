@@ -19,10 +19,14 @@ SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [44642652](https://www.findagrave.com/memorial/44642652/joseph-swindell)
 2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [L4T7-3GT](https://www.familysearch.org/en/tree/person/about/L4T7-3GT)
 3. Daughters of the American Revolution Descendent Number [351873](https://services.dar.org/public/dar_research/search_descendants/?action=list&MyPrimary_Seqn=351873&MyLineageCount=1&Control_Min_Seqn=351873)
+4. Wikitree: [Swindell-211](https://www.wikitree.com/wiki/Swindell-211)
 
 
 ACCOLADES:
 - [Missouri First Families](https://mosga.org)
+- Land Grant 40 acres [MO2330__.221](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2330__.221&docClass=STA&sid=v4spfrvs.nop)
+- Land Grant 40 acres [MO2390__.045](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2390__.045&docClass=STA&sid=3ssejvme.cvl#patentDetailsTabIndex=0)
+- 		
 
 
 
