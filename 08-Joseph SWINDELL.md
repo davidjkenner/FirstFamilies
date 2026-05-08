@@ -6,12 +6,19 @@ Joseph Swindell
 - Marriage Place:
 - Died:
 - Burial Place:
-- Spouse:
-- Child:
-- Father:  [John Swindell](https://github.com/davidjkenner/FirstFamilies/blob/main/09-John%20Swindell.md)  
+- Father:  [John SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/09-John%20Swindell.md)  
 - Mother:
+- Spouse:  [Mary Ann BROWN](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Mary%20Ann%20BROWN.md?plain=1)
+- Child:  [Elizabeth SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/07-Elizabeth%20SWINDELL.md)
 
 SOURCES:
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [92034642](https://www.findagrave.com/memorial/92034642/mary-ann-swindell)
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [L2ZG-WX5](https://www.familysearch.org/en/tree/person/details/L2ZG-WX5)
+3. Daughters of the American Revolution Descendent Number [351873](https://services.dar.org/public/dar_research/search_descendants/?action=list&MyPrimary_Seqn=351873&MyLineageCount=1&Control_Min_Seqn=351873)
+
+
+ACCOLADES:
+- [Missouri First Families](https://mosga.org): Pending
 
 
 [DAR Genealogical Research Databases](https://services.dar.org/public/dar_research/search_member/?Action=full&National_Number=753319)
