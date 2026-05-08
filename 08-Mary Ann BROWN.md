@@ -2,7 +2,7 @@ Mary Ann BROWN SWINDELL
 
 - Born: 11 May 1780  `#1`
 - Birth Place:  Madison County, Virginia  `#3`
-- Spouse: Joseph SWINDELL  `#1, #3`
+- Spouse: [Joseph SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Joseph%20SWINDELL.md)  `#1, #3`
 - Marriage Date:  2 - Oct - 1797  `#3`
 - Marriage Place:  Madison County, Virginia  `#3`
 - Died: 4 Jul 1868  `#1`
