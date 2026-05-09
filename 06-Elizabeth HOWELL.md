@@ -2,7 +2,7 @@ Elizabeth HOWELL EMERSON
 
 - Born: Nov 1825  `#5, #6, #7`
 - Birth Place: Illinois  `#4, #5`
-- Spouse:  Henry Harvey Emerson  `#1, #3, #4, #5, #6, #7`
+- Spouse:  [Henry Harvey Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Henry%20Harvey%20EMERSON.md)  `#1, #3, #4, #5, #6, #7`
 - Marriage Date:  16 March 1843  `#3, #4, #7`
 - Marriage Place: Illinois  `#3`
 - Residence:  Illinois 1843 -1870  `#3, #4, #5`
