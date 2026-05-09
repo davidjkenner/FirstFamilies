@@ -25,6 +25,7 @@ SOURCES:
 6. [Wisconsin Historical Society; Madison, Wisconsin; Census Year: 1855; Roll: 2](https://www.ancestry.com/search/collections/1055/records/3662543?tid=168012819&pid=272180028408&ssrc=pt)
 7. [Michigan, Homestead and Cash Entry Patents, Pre-1908. Document Number 7564](https://www.ancestry.com/search/collections/2075/records/61758?tid=168012819&pid=272180028408&ssrc=pt)
 8. [Year: 1860; Census Place: Otoe, Nebraska Territory; Page: 349; Family History Library Film: 803665](https://www.ancestry.com/search/collections/7667/records/44302232)
+9. [Michigan Deed Sale](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/PRATT_Calhoun%20Deeds%2C%20img452.pdf)
 
 ACCOLADES:
 - Illinios First Families (Pending)
