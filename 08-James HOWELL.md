@@ -5,3 +5,4 @@ SOURCES:
 3. [RC-A058534-M542913-170028](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/RC-A058534-M542913-170028.pdf)
 4. [RC-A058534-M542913-SD-165724](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/RC-A058534-M542913-SD-165724.pdf)
 5. https://sarpatriots.sar.org/patriot/display/186392
+6. [Fold3 Military Records](https://www.fold3.com/image/23209696/howell-james-page-1-us-revolutionary-war-service-records-1775-1783)
