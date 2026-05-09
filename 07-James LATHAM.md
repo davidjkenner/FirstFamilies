@@ -16,7 +16,7 @@ PVT James Latham
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [G852-KMZ](https://www.familysearch.org/en/tree/person/details/G852-KMZ)
 
 
 ACCOLADES:
