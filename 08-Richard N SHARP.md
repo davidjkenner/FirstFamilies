@@ -23,7 +23,8 @@ SOURCES:
 5. [401956](https://services.dar.org/Public/DAR_Research/search_member/?Action=full&National_Number=401956)
 6. [504421](https://services.dar.org/Public/DAR_Research/search_member/?Action=full&National_Number=504421)
 7. [504893](https://services.dar.org/Public/DAR_Research/search_member/?Action=full&National_Number=504893)
-8. http://www.tngenweb.org/records/tn_wide/obits/nca/nca50-04.htm 
+8. http://www.tngenweb.org/records/tn_wide/obits/nca/nca50-04.htm
+9. [The Weekly Courier Post 1850 02 14 Page 2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Weekly_Courier_Post_1850_02_14_Page_2.pdf)
 
 
 
