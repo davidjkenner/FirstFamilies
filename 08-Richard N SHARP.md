@@ -1,12 +1,14 @@
 Rev. Richard N Sharp
 
-- Born:   1787
+Palmyra Spectator Published February 14, 1850. Rev. Richard Sharp died a month before his son John Sharp died in California. Rev. Richard Sharp Death reported in The Nashville Christian Advocate of the M.E. Church March 8, 1850 page 5 of 14. Born Albemarle County VA, May 1, 1787. Joined Methodist Church Nov. 8, 1805. Licensed to preach, ordained deacon Feb. 23, 1812. Ordained elder, fall of 1818. Moved to Shelby Co KY 1816 Moved to Marion [Monroe] County MO fall of 1831. Local Methodist preacher, died recently.  
+
+- Born:   11 May 1787  `#1`
 - Birth Place:
 - Spouse:  Nancy Row
 - Marriage Date:
-- Marriage Place: 1820 married on - - 1807
-- Died: 1850
-- Burial Place:  
+- Marriage Place: 
+- Died:  4 Feb 1850  `#1`
+- Burial Place:  [Sharpsburg Cemetery](https://www.findagrave.com/cemetery/31525/sharpsburg-cemetery) Marion County,  Missouri  `#1`
 - Father: 
 - Mother:
 - Child:
@@ -14,13 +16,14 @@ Rev. Richard N Sharp
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [20809860](https://www.findagrave.com/memorial/20809860/richard-n.-sharp)
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [LXQV-SJ4](https://www.familysearch.org/en/tree/person/details/LXQV-SJ4)
 3. [253919](https://services.dar.org/Public/DAR_Research/search_member/?Action=full&National_Number=253919)
 4. [267516](https://services.dar.org/Public/DAR_Research/search_member/?Action=full&National_Number=267516)
 5. [401956](https://services.dar.org/Public/DAR_Research/search_member/?Action=full&National_Number=401956)
 6. [504421](https://services.dar.org/Public/DAR_Research/search_member/?Action=full&National_Number=504421)
 7. [504893](https://services.dar.org/Public/DAR_Research/search_member/?Action=full&National_Number=504893)
+8. http://www.tngenweb.org/records/tn_wide/obits/nca/nca50-04.htm 
 
 
 
