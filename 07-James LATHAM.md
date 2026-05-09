@@ -5,7 +5,7 @@ PVT James Latham
 - Spouse:
 - Marriage Date:
 - Marriage Place
-- Died: 
+- Died:  [Maries](https://www.familysearch.org/en/wiki/Maries_County,_Missouri_Genealogy "Maries County, Missouri Genealogy"), 
 - Burial Place:
 - Military Service: [1 Reg't Mtd. (Perkins) W. Tennesse Vols. War of 1812](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/JamesLathamMilitaryRecord.pdf)  
 - Father: 
