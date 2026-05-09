@@ -26,3 +26,4 @@ RESOURCES:
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view)
 - [Nebraska Surnames](https://nsgs.org/surname.php)
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
+- [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
