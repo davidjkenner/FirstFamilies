@@ -6,7 +6,8 @@ PVT James Latham
 - Marriage Date:
 - Marriage Place
 - Died: 
-- Burial Place:  
+- Burial Place:
+- Military Service: [1 Reg't Mtd. (Perkins) W. Tennesse Vols. War of 1812](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/JamesLathamMilitaryRecord.pdf)  
 - Father: 
 - Mother:
 - Child:
