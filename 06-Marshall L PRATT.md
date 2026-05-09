@@ -11,7 +11,7 @@ Marshall L Pratt
 - Mother:
 - Child:  [Isabell Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Isabell%20PRATT.md) `#3`
 - Residence: 9 October, 1838 Michigan-Toledo Strip, Calhoun County, Michagan `#2, #7`
-- Residence: Wisconsin 1 Sept 1849 -   `#5, #2, #6`
+- Residence: Wisconsin 1 Sept 1849 - 1857  `#5, #2, #6, #8`
 - Military Service: Captain Murrays Company Second Regiment Pennsylvania Volunteers  `#5`
 
 
@@ -24,6 +24,7 @@ SOURCES:
 5. [MW-0984-417](https://glorecords.blm.gov/details/patent/default.aspx?accession=0984-417&docClass=MW&sid=ivydenqu.xf4) (160 acres)
 6. [Wisconsin Historical Society; Madison, Wisconsin; Census Year: 1855; Roll: 2](https://www.ancestry.com/search/collections/1055/records/3662543?tid=168012819&pid=272180028408&ssrc=pt)
 7. [Michigan, Homestead and Cash Entry Patents, Pre-1908. Document Number 7564](https://www.ancestry.com/search/collections/2075/records/61758?tid=168012819&pid=272180028408&ssrc=pt)
+8. [Year: 1860; Census Place: Otoe, Nebraska Territory; Page: 349; Family History Library Film: 803665](https://www.ancestry.com/search/collections/7667/records/44302232)
 
 ACCOLADES:
 - Illinios First Families (Pending)
