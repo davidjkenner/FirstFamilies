@@ -1,4 +1,11 @@
 
+
+https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Robert%20Sharp%20DAR.pdf
+
+https://sarpatriots.sar.org/patriot/display/287820
+
+https://services.dar.org/public/dar_research/search_adb/?action=full&p_id=A103009
+
 - SAR Patriot #: [P-287820](https://sarpatriots.sar.org/patriot/display/287820)
 - [DAR Ancestor #: A103009](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A103009)
 
