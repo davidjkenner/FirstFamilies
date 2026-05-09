@@ -21,3 +21,5 @@ SOURCES:
 5. https://services.dar.org/public/dar_research/search_descendants/?action=list&MyPrimary_Seqn=143178&MyLineageCount=1
 6. https://services.dar.org/public/dar_research/search_descendants/?action=list&MyPrimary_Seqn=143177&MyLineageCount=1
 7. https://services.dar.org/public/dar_research/search_descendants/?action=list&MyPrimary_Seqn=141179&MyLineageCount=1
+8. [RC-A058534-M542913-SD-204659](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/RC-A058534-M542913-SD-204659.pdf)
+9. [RC-A058534-M542913-204701](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/RC-A058534-M542913-204701.pdf)
