@@ -16,6 +16,7 @@ RESOURCES:
 - [Missouri Online Death Certificates](https://s1.sos.mo.gov/records/Archives/ArchivesMvc/DeathCertificates)
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf)
 - [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php)
+- [Missouri House of Representatives](https://house.mo.gov/listmembers.aspx?utm_source=copilot.com), [Missouri Senate](https://www.senate.mo.gov/15info/SenateRoster.htm?utm_source=copilot.com)
 - [Iowa](https://iowagenealogy.org/surname.php)
 - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
 - [Johnson County](https://johnsonctyilgenhist.org/), [Illinois](https://ilgensoc.org/cpage.php?pt=599)
