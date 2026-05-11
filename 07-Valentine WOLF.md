@@ -6,7 +6,7 @@ NAME
 - Marriage Date:
 - Marriage Place
 - Died: 
-- Burial Place:  
+- Burial Place:  [Osage](https://www.familysearch.org/en/wiki/Osage_County,_Missouri_Genealogy "Osage County, Missouri Genealogy") , [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy")
 - Father: 
 - Mother:
 - Child:
