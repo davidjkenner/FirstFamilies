@@ -7,7 +7,7 @@ Joseph Swindle was born in the Fort Germanna community in central Virginia. His 
 - Marriage Date:  2 - Oct - 1797  `#3`
 - Marriage Place:   [Madison County](https://www.familysearch.org/en/wiki/Madison_County,_Virginia_Genealogy), [Virginia](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy)  `#3`
 - Died:  14 Sep 1843  `#1`
-- Burial Place:  [Swindell Cemetery](https://www.findagrave.com/cemetery/31874/swindell-cemetery), [Madison](https://en.wikipedia.org/wiki/Madison,_Missouri),  [Monroe County](https://www.familysearch.org/en/wiki/Monroe_County,_Missouri_Genealogy)  Missouri   `#1` 
+- Burial Place:  [Swindell Cemetery](https://www.findagrave.com/cemetery/31874/swindell-cemetery), [Madison](https://en.wikipedia.org/wiki/Madison,_Missouri),  [Monroe County](https://www.familysearch.org/en/wiki/Monroe_County,_Missouri_Genealogy)  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)   `#1` 
 - Father:  [John SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/09-John%20Swindell.md)  
 - Mother:  Hannah WEAVER    `#3`
 - Spouse:  [Mary Ann BROWN](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Mary%20Ann%20BROWN.md?plain=1)    `#1`
