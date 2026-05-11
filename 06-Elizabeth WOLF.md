@@ -4,7 +4,7 @@ Mary Wolfe was born about 1836. She passed away in 1911. Daughter of William Val
 
 
 - Born: 
-- Birth Place:
+- Birth Place:  [Osage](https://www.familysearch.org/en/wiki/Osage_County,_Missouri_Genealogy "Osage County, Missouri Genealogy") , [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy")
 - Spouse:
 - Marriage Date:
 - Marriage Place
