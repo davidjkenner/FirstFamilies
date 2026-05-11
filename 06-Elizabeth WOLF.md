@@ -1,5 +1,8 @@
 Elizabeth Wolf
 
+Mary Wolfe was born about 1836. She passed away in 1911. Daughter of William Valentine Wolfe and Mary Thompson. Her first husband was Isaac Miller, married 11 Apr 1854 in Osage County, Missouri. After Isaac Miller death, she remarried to William C. Bradford, 21 Jul 1864 in Osage County, Missouri. It appears that William C. Bradford died and she married a third time to a man named Snyder before 1900. 
+
+
 - Born: 
 - Birth Place:
 - Spouse:
@@ -14,8 +17,9 @@ Elizabeth Wolf
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [140455565](https://www.findagrave.com/memorial/140455565/mary-elizabeth-snyder)
 2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+3. Wikitree: [Wolf-7308](https://www.wikitree.com/wiki/Wolf-7308) 
 
 
 ACCOLADES:
