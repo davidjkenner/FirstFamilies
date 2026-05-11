@@ -18,7 +18,7 @@ Mary Wolfe was born about 1836. She passed away in 1911. Daughter of William Val
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [140455565](https://www.findagrave.com/memorial/140455565/mary-elizabeth-snyder)
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [L6DG-KM8](https://www.familysearch.org/en/tree/person/about/L6DG-KM8)
 3. Wikitree: [Wolf-7308](https://www.wikitree.com/wiki/Wolf-7308) 
 
 
