@@ -6,7 +6,7 @@ Mary Ann BROWN SWINDELL
 - Marriage Date:  2 - Oct - 1797  `#3`
 - Marriage Place:  Madison County, Virginia  `#3`
 - Died: 4 Jul 1868  `#1`
-- Burial Place:  [Swindell Cemetery](https://www.findagrave.com/cemetery/31874/swindell-cemetery), Madison,  Monroe County,  Missouri  `#1, #3`
+- Burial Place:  [Swindell Cemetery](https://www.findagrave.com/cemetery/31874/swindell-cemetery), Madison,  [Monroe County](https://www.familysearch.org/en/wiki/Monroe_County,_Missouri_Genealogy),  Missouri  `#1, #3`
 - Father: 
 - Mother:
 - Child:  [Elizabeth SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/07-Elizabeth%20SWINDELL.md)
