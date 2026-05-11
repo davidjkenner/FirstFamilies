@@ -25,7 +25,7 @@ ACCOLADES:
 - [Missouri First Families](https://mosga.org)
 - Land Grant 40 acres [MO2330__.221](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2330__.221&docClass=STA&sid=v4spfrvs.nop)
 - Land Grant 40 acres [MO2390__.045](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2390__.045&docClass=STA&sid=3ssejvme.cvl#patentDetailsTabIndex=0)
-- 		
+
 
 
 
