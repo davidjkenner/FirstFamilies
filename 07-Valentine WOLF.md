@@ -17,6 +17,7 @@ SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
 2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [L2BB-8X5](https://www.familysearch.org/en/tree/person/about/L2BB-8X5)
 3. Wikitree [Wolfe-6370](https://www.wikitree.com/wiki/Wolfe-6370)
+4. [Military Service](https://www.fold3.com/file/304675091?terms=wolf%2Cvalentine)
 
 
 ACCOLADES:
