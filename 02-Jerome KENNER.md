@@ -4,13 +4,7 @@ Good day Mr. Billington,
 
 I would like to inquire into obtaining a courtesy US Flag that has been flown over the State Capitol. This flag to honor my ancestor  US Service Member, member of Law Enforcement or EMS, Teachers, Public Officials or others that have provided a service to the state or nation or in commemoration of a specific event.
 
-I am a Military Spouse and a active public servant in the Department of Defense
 
-6003 Pouring Glories Way, Clarksville, MD 21029
-
-Thanks and have a great day!
-David J. Kenner
-667-678-0854
 
 
 
@@ -38,6 +32,7 @@ SOURCES:
 3. [Jerome Kenner Obituraury: Daily American Republic 11 March 2020](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DAR-2674770.JPG).
 4. [Jerome Kenner Tombstone, Find A Grave Memorial ID 207459319](https://www.findagrave.com/memorial/207459319/jerome-t.-kenner).
 5. [FamilySearch](https://www.familysearch.org/en/search/): ID [GP1R-1Y8](https://www.familysearch.org/en/tree/person/details/GP1R-1Y8)
+6. ![Jerome Kenner Death Certificate](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DadsDeathCertificate.png)
 
 ACCOLADES:
 - Presidential Memorial Certificate
