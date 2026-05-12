@@ -7,7 +7,7 @@ Robert Gray II was born in Maine and moved to Missouri before 31 December 1860. 
 - Birth Place:  Garland, Maine  `#3, #4, #5`
 - Spouse:  Isabelle E Pratt  `#1, #3, #4`
 - Marriage Date:  13 March 1867  `#3, #4`
-- Marriage Place
+- Marriage Place: Nebraska  `#4`
 - Died:  26 Sep 1903  `#1, #3, #5` 
 - Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1`  
 - Father: 
