@@ -19,7 +19,7 @@ David J. Kenner
 - Marriage Date:
 - Marriage Place
 - Died: 20 Jul 1916  `#1`
-- Burial Place:  [Andrew Chapel Cemetery](https://www.findagrave.com/cemetery/27325/andrew-chapel-cemetery), Warren,  Marion County,  Missouri   `#1`
+- Burial Place:  [Andrew Chapel Cemetery](https://www.findagrave.com/cemetery/27325/andrew-chapel-cemetery), [Warren](https://en.wikipedia.org/wiki/Warren_Township,_Marion_County,_Missouri),  [Marion County](https://www.familysearch.org/en/wiki/Marion_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy")    `#1`
 - Father: 
 - Mother:
 - Child: Emily Sharp    `#1`
