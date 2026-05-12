@@ -19,7 +19,7 @@ David J. Kenner
 - Marriage Date:
 - Marriage Place
 - Died: 
-- Burial Place:  
+- Burial Place:  [Riverview Cemetery](https://www.findagrave.com/cemetery/17796/riverview-cemetery), Clarksville,  Montgomery County,  Tennessee
 - Father: 
 - Mother:
 - Child:
