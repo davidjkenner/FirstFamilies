@@ -1,5 +1,10 @@
 Marshall L Pratt
 
+Name: Bob Hallstrom  
+Title: State Senator, Nebraska Unicameral  
+District: 1 — District 1 includes Otoe County.
+Email: bhallstrom@leg.ne.gov
+
 - Born: 1811  `#1, #3`
 - Birth Place: Massachusetts  `#3`
 - Spouse:  Fredricka  `#3`
