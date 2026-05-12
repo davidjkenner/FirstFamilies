@@ -17,31 +17,23 @@ Robert Gray II was born in Maine and moved to Missouri before 31 December 1860. 
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [58099873](https://www.findagrave.com/memorial/58099873/robert-gray)
 2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+3. [The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
+4. [Robert Gray II Obituary: The Harvard Courier 3 Oct 1903](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Harvard_Courier_Sat__Oct_3__1903_.pdf).
+5. [Battle Unit Details - The Civil War (U.S. National Park Service)](https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=UIL0026RI)
+6. [Soldier Details - The Civil War (U.S. National Park Service)](https://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=92A584A2-DC7A-DF11-BF36-B8AC6F5D926A)
+7. [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/6710912?tid=168012819&pid=272180029582&ssrc=pt)
+8. [Nebraska Grand Army of the Republic 30-357](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/GAR.jpg).
+9. SUVCW Database
 
 
 ACCOLADES:
 
-Robert Gray II has multiple Accolades including:
+
 
 - President Memorial Certificate
 - [Approved Ancestor Sons of Union Veterans. ID: 214014](https://www.suvcwdb.org/index.php?r=site/showgrave&graveid=214014)
 - First Family of Nebraska
 - First Family of Oklahoma
-
-SOURCES:
-- [Battle Unit Details - The Civil War (U.S. National Park Service)](https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=UIL0026RI)	
-- [Soldier Details - The Civil War (U.S. National Park Service)](https://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=92A584A2-DC7A-DF11-BF36-B8AC6F5D926A)	
-- [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/6710912?tid=168012819&pid=272180029582&ssrc=pt)  
-- [Nebraska Grand Army of the Republic 30-357](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/GAR.jpg).
-- [Robert Gray Tombstone. Find A Grave Memorial ID 58099873](https://www.findagrave.com/memorial/58099873/robert-gray).
-- [Isabel Pratt Tombstone. Find A Grave Memorial ID 79992854](https://www.findagrave.com/memorial/79992854/isabelle_ernestine-gray).
-
-- [The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
-
-
-- [Robert Gray II Obituary: The Harvard Courier 3 Oct 1903](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Harvard_Courier_Sat__Oct_3__1903_.pdf).
-- SUVCW Database
-
-
+  
