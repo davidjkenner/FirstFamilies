@@ -28,7 +28,7 @@ David J. Kenner
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [87762661](https://www.findagrave.com/memorial/87762661/john-walker-lyell) 
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [LR6S-78B](https://www.familysearch.org/en/tree/person/details/LZCP-HT5)
 
 
 ACCOLADES:
