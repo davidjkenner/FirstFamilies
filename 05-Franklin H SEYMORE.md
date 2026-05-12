@@ -49,3 +49,5 @@ ACCOLADES:
 - [Wisconsin First Families](https://wsgs.org/cpage.php?pt=212):
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 - Namesake
+
+![enter image description here](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Plaque%20at%20Grave.png)
