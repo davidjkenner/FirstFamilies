@@ -1,6 +1,6 @@
 NAME
 
-I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol. 
+I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor 
 
 Typically, these flags are presented in order to honor a US Service Member, member of Law Enforcement or EMS, Teachers, Public Officials or others that have provided a service to the state or nation or in commemoration of a specific event. 
 
