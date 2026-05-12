@@ -35,5 +35,6 @@ ACCOLADES:
 - First Families of Nebraska #20-001
 - First Families of Oklahoma Member No 4652
 - First Families of Missouri Civil War Certificate
-- Land Grant
+- Oklahoma Land Grant: [OK0450__.383](https://glorecords.blm.gov/details/patent/default.aspx?accession=OK0450__.383&docClass=STA&sid=z44rlmpa.hdn)
+- Nebraska Land Grant: [AGS-0233-267](https://glorecords.blm.gov/details/patent/default.aspx?accession=0233-267&docClass=AGS&sid=z44rlmpa.hdn)	
   
