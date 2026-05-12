@@ -12,7 +12,7 @@ Robert Gray II was born in Maine and moved to Missouri before 31 December 1860. 
 - Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1`  
 - Father: 
 - Mother:
-- Child:  Evalyn Frederica Gray  `#3, #4`
+- Child:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3, #4`
 - Military Service: Corporal Company D and H of the 26th Regiment of the Illinois Infantry  `#1, #5`
 - Richardson Post 60 G.A.R.  `#3`
 
