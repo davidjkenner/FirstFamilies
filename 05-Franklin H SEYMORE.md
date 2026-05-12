@@ -15,21 +15,21 @@ David J. Kenner
 6003 Pouring Glories Way, Clarksville, MD 21029
 667-678-0854
 
-- Born: 
+- Born: 1825  `#1`
 - Birth Place:
 - Spouse:
 - Marriage Date:
 - Marriage Place
-- Died: 
-- Burial Place:  [Riverview Cemetery](https://www.findagrave.com/cemetery/17796/riverview-cemetery), [Clarksville](https://en.wikipedia.org/wiki/Clarksville,_Tennessee),  [Montgomery County](https://www.familysearch.org/en/wiki/Montgomery_County,_Tennessee_Genealogy),  [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)
+- Died: 20 Feb 1862  `#1`
+- Burial Place:  [Riverview Cemetery](https://www.findagrave.com/cemetery/17796/riverview-cemetery), [Clarksville](https://en.wikipedia.org/wiki/Clarksville,_Tennessee),  [Montgomery County](https://www.familysearch.org/en/wiki/Montgomery_County,_Tennessee_Genealogy),  [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)   `#1`
 - Father: 
 - Mother:
-- Child:
+- Child: Jesse Jerome Seymore
 
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [113703810](https://www.findagrave.com/memorial/113703810/franklin-h.-seamore)
 2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
 
 
