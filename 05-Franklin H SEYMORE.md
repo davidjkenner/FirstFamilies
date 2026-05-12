@@ -1,24 +1,8 @@
 PVT Franklin H Seymore
 
-Aron Maberry  rep.aron.maberry@capitol.tn.gov
-
-I am a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor PVT Franklin H Seymore. He served during the Civil War. He was a peasant farmer in rural Tennessee and did not own slaves. At the age of 36, with four children and a pregnant wife, he enlisted in the 50th Tennessee Infantry Regiment. He was killed in action before he could meet his youngest son, Jesse Jerome, from whom I am descended. He did not fight for slavery; he fought because his state, Tennessee, had been invaded. He is buried in a mass grave Riverview Cemetery in Clarksville. His name is listed on the Plaque of honored dead. PVT Franklin H Seymore gave everything for Tennessee and left nothing for himself. 
-
-In his honor, I display the flag under which he served and died defending his home.
+PVT Franklin H Seymore served during the Civil War. He was a peasant farmer in rural Tennessee and did not own slaves. At the age of 36, with four children and a pregnant wife, he enlisted in the 50th Tennessee Infantry Regiment. He was killed in action before he could meet his youngest son, Jesse Jerome, from whom I am descended. He did not fight for slavery; he fought because his state, Tennessee, had been invaded. He is buried in a mass grave Riverview Cemetery in Clarksville. His name is listed on the Plaque of honored dead. PVT Franklin H Seymore gave everything for Tennessee and left nothing for himself. 
 
 
-
-
-He served and died in the Civil War. He was a poor farmer with 5 kids when the War started. He did NOT own slaves nor did anyone in the family. His brother was decapitated in his bed by the Union Army. He had to protect his family from further savagry. He was wounded in battle
-
-Typically, these flags are presented in order to honor a US Service Member, member of Law Enforcement or EMS, Teachers, Public Officials or others that have provided a service to the state or nation or in commemoration of a specific event. 
-
-Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  The mailing address is 6003 Pouring Glories Way, Clarksville, MD 21029
-
-Thank you and have a blessed day
-David J. Kenner
-6003 Pouring Glories Way, Clarksville, MD 21029
-667-678-0854
 
 - Born: 1825  `#1`
 - Birth Place:
@@ -29,7 +13,7 @@ David J. Kenner
 - Burial Place:  [Riverview Cemetery](https://www.findagrave.com/cemetery/17796/riverview-cemetery), [Clarksville](https://en.wikipedia.org/wiki/Clarksville,_Tennessee),  [Montgomery County](https://www.familysearch.org/en/wiki/Montgomery_County,_Tennessee_Genealogy),  [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)   `#1`
 - Father: 
 - Mother:
-- Child: Jesse Jerome Seymore
+- Child: [Jesse Jerome Seymore](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Jesse%20Jerome%20SEYMORE.md)
 
 
 
