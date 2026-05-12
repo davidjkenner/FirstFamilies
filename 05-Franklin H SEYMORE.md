@@ -2,9 +2,9 @@ PVT Franklin H Seymore
 
 Aron Maberry  rep.aron.maberry@capitol.tn.gov
 
-I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor PVT Franklin H Seymore. 
+I am a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor PVT Franklin H Seymore. He served during the Civil War. He was a peasant farmer in rural Tennessee and did not own slaves. At the age of 36, with four children and a pregnant wife, he enlisted in the 50th Tennessee Infantry Regiment. He was killed in action before he could meet his youngest son, Jesse Jerome, from whom I am descended. He did not fight for slavery; he fought because his state, Tennessee, had been invaded. He is buried in a mass grave Riverview Cemetery in Clarksville. His name is listed on the Plaque of honored dead. PVT Franklin H Seymore gave everything for Tennessee and left nothing for himself. 
 
-He was a peasant farmer in rural Tennessee and did not own slaves. At 36, with four children and a pregnant wife, he enlisted in the 50th Tennessee Infantry Regiment. He was killed in action before he could meet his youngest son, Jesse Jerome, from whom I am descended. He did not fight for slavery; he fought because his state, Tennessee, had been invaded. In his honor, I display the flag under which he served and died defending his home.
+In his honor, I display the flag under which he served and died defending his home.
 
 
 
