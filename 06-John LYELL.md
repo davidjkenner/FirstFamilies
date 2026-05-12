@@ -13,16 +13,16 @@ David J. Kenner
 6003 Pouring Glories Way, Clarksville, MD 21029
 667-678-0854
 
-- Born: 
+- Born: 21 Aug 1829  `#1`
 - Birth Place:
 - Spouse:
 - Marriage Date:
 - Marriage Place
-- Died: 
-- Burial Place:  
+- Died: 20 Jul 1916  `#1`
+- Burial Place:  [Andrew Chapel Cemetery](https://www.findagrave.com/cemetery/27325/andrew-chapel-cemetery), Warren,  Marion County,  Missouri   `#1`
 - Father: 
 - Mother:
-- Child:
+- Child: Emily Sharp    `#1`
 
 
 
