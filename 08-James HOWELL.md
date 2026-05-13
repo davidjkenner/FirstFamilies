@@ -1,6 +1,8 @@
 PVT James HOWELL
 
-James served with the Pulaski Legion Continental Army Troops. Recognized as a Revolutionary War patriot by NSDAR A058534 and NSSAR P-186392. James was in the American Revolutionary War and served with Count Kasimer Pulaski's Legion of Continental Troops. Polaski's Legion was ordered into existence by Congress on March 28th, 1778 and became a reality in the autumn on 1778. Kasimir commanded a staff, three troops of cavalry one company of riflemen ( chasseurs), a grenadier company and two infantry companies, a superlunary ("higher") company and possible a light brass cannon, each company of troops consisting of about 30 men. On February 2nd 1779 the Legion was ordered to the Southern Department by Congress. In a battle which was an attempt by the Legion to retake Savannah Georgia. On October 11th 1779, General Polaski suffered a terrible wound, from which he died. Shortly thereafter on December 29th, Congress ordered the Legion disbanded.
+James served with the Pulaski Legion Continental Army Troops. Recognized as a Revolutionary War patriot by NSDAR A058534 and NSSAR P-186392. 
+
+Polaski's Legion was ordered into existence by Congress on March 28th, 1778 and became a reality in the autumn on 1778. Kasimir commanded a staff, three troops of cavalry one company of riflemen ( chasseurs), a grenadier company and two infantry companies, a superlunary ("higher") company and possible a light brass cannon, each company of troops consisting of about 30 men. On February 2nd 1779 the Legion was ordered to the Southern Department by Congress. In a battle which was an attempt by the Legion to retake Savannah Georgia. On October 11th 1779, General Polaski suffered a terrible wound, from which he died. Shortly thereafter on December 29th, Congress ordered the Legion disbanded.
 
 
 - Born: 1744  `#1`
