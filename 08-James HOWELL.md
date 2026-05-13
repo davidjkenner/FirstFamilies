@@ -11,7 +11,7 @@ Polaski's Legion was ordered into existence by Congress on March 28th, 1778 and 
 - Marriage Date:
 - Marriage Place
 - Died: 
-- Burial Place:  [Shirley Cemetery](https://www.findagrave.com/cemetery/31570/shirley-cemetery) Elmer,  Macon County,  Missouri  `#1`
+- Burial Place:  [Shirley Cemetery](https://www.findagrave.com/cemetery/31570/shirley-cemetery) Elmer,  [Macon](https://www.familysearch.org/en/wiki/Macon_County,_Missouri_Genealogy),  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy")  `#1`
 - Father: 
 - Mother:
 - Child:
