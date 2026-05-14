@@ -8,7 +8,7 @@ George Wilson
 - Marriage Date: before 1878  `#3`
 - Marriage Place: [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#4`
 - Child:  [Aulsy J. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Aulsy%20Wilson.md)  `#3`
-- Father: William Wilson  `#2`
+- Father: [William Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/06-William%20Wilson.md)  `#2`
 - Mother: Virginia Periehouse  `#2`
 
 ACCOLADES:
