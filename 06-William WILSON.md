@@ -15,7 +15,7 @@ David J. Kenner
 
 - Born: 1824  `#3`
 - Birth Place:  North Carolina  `#3`
-- Spouse:  Virginia Periehouse   `#1, #3`
+- Spouse:  [Virginia Periehouse](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Virginia%20PERIEHOUSE.md)   `#1, #3`
 - Marriage Date: before 1847  `#3`
 - Marriage Place: probably Tennessee  `#3`
 - Died: 
