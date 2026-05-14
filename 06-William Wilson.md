@@ -26,7 +26,7 @@ David J. Kenner
 
 
 SOURCES:
-1. [FamilySearch](https://www.familysearch.org/en/search/): ID
+1. [FamilySearch](https://www.familysearch.org/en/search/): ID [KDMT-LD3](https://www.familysearch.org/en/tree/person/details/KDMT-LD3)
 2. [George Wilson Death Certificate](https://www.sos.mo.gov/images/archives/deathcerts/1949/1949_00024464.PDF).
 3. [1860; Census Place: District 13, Henry, Tennessee; Page: 438; Family History Library Film: 805256](https://www.ancestry.com/search/collections/7667/records/19265008?tid=168012819&pid=272180028752&ssrc=pt)
 5. 
