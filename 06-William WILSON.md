@@ -24,6 +24,7 @@ David J. Kenner
 - Mother:
 - Child:  [George W. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-George%20WILSON.md)  `#1, #3`
 - Military Service: Battle Unit Name: [33rd Regiment, North Carolina Infantry](https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=CNC0033RI)  Company: D
+- Residence:  In Tennessee since 1840 Census
 
 
 SOURCES:
@@ -32,6 +33,7 @@ SOURCES:
 3. [1860; Census Place: District 13, Henry, Tennessee; Page: 438; Family History Library Film: 805256](https://www.ancestry.com/search/collections/7667/records/19265008?tid=168012819&pid=272180028752&ssrc=pt)
 5. [M230 ROLL 42](https://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=8E43E2DF-DC7A-DF11-BF36-B8AC6F5D926A)
 6. [Fold3](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Wilson%2C%20William%20N.pdf)
+7. [1840; Census Place: Perry, Tennessee; Roll: 530; Page: 177; Family History Library Film: 0024547](https://www.ancestry.com/search/collections/8057/records/3007536?tid=168012819&pid=272180028752&ssrc=pt)
 
 
 ACCOLADES:
