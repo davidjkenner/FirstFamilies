@@ -13,29 +13,23 @@ David J. Kenner
 6003 Pouring Glories Way, Clarksville, MD 21029
 667-678-0854
 
-- Born: 
-- Birth Place:
-- Spouse:
-- Marriage Date:
-- Marriage Place
+- Born: 1824  `#3`
+- Birth Place:  North Carolina  `#3`
+- Spouse:  Virginia Periehouse   `#1, #3`
+- Marriage Date: before 1847  `#3`
+- Marriage Place: probably Tennessee  `#3`
 - Died: 
 - Burial Place:  
 - Father: 
 - Mother:
-- Child:
-
+- Child:  [George W. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-George%20WILSON.md)  `#1, #3`
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
-
-SOURCES:
-1. [George Wilson Tombstone. Find A Grave Memorial ID: 30548649](https://www.findagrave.com/memorial/30548649/george-washington-wilson).
+1. [FamilySearch](https://www.familysearch.org/en/search/): ID
 2. [George Wilson Death Certificate](https://www.sos.mo.gov/images/archives/deathcerts/1949/1949_00024464.PDF).
-3. [Year: 1880; Census Place: District 11, Perry, Tennessee; Roll: 1274; Page: 430D; Enumeration District: 150](https://www.ancestry.com/search/collections/6742/records/9934143?tid=168012819&pid=272180029142&ssrc=pt).
-4. [Tennessee, Marriage Records, 1780-2002](https://www.ancestry.com/search/collections/1169/records/6843240?tid=168012819&pid=272180029347&ssrc=pt)
-5. [FamilySearch](https://www.familysearch.org/en/search/): ID [K4FN-HS4](https://www.familysearch.org/en/tree/person/details/K4FN-HS4)
+3. [1860; Census Place: District 13, Henry, Tennessee; Page: 438; Family History Library Film: 805256](https://www.ancestry.com/search/collections/7667/records/19265008?tid=168012819&pid=272180028752&ssrc=pt)
+5. 
 
 
 ACCOLADES:
