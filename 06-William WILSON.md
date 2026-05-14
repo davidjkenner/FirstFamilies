@@ -23,6 +23,7 @@ David J. Kenner
 - Father: 
 - Mother:
 - Child:  [George W. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-George%20WILSON.md)  `#1, #3`
+- Military Service: Battle Unit Name: [33rd Regiment, North Carolina Infantry](https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=CNC0033RI)  Company: D
 
 
 SOURCES:
