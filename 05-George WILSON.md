@@ -11,7 +11,8 @@ George Wilson
 - Father: William Wilson  `#2`
 - Mother: Virginia Periehouse  `#2`
 
-
+ACCOLADES:
+- Land Grant: [MO4380__.054](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO4380__.054&docClass=STA&sid=tg4ogi5f.na4#patentDetailsTabIndex=0)	(80 acres)
 
 
 SOURCES:
