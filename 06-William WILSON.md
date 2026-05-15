@@ -18,7 +18,7 @@ David J. Kenner
 - Spouse:  [Virginia Periehouse](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Virginia%20PERIEHOUSE.md)   `#1, #3`
 - Marriage Date: before 1847  `#3`
 - Marriage Place: probably Tennessee  `#3`
-- Died: 
+- Died: after 1860  `#3`  
 - Burial Place:  
 - Father: 
 - Mother:
