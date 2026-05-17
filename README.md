@@ -25,6 +25,6 @@ RESOURCES:
 - [Tennessee](https://tngs.org/TCD)
 - [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view)
-- [Nebraska Surnames](https://nsgs.org/surname.php)
+- [Nebraska Surnames](https://nsgs.org/surname.php) . [Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). Please contact Sign Solutions of Lincoln, (402)466-1144, for information about purchasing a flag to be flown at the Capitol 
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
 - [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
