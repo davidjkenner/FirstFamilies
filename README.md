@@ -17,7 +17,7 @@ RESOURCES:
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf)
 - [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php)
 - [Missouri House of Representatives](https://house.mo.gov/listmembers.aspx?utm_source=copilot.com), [Missouri Senate](https://www.senate.mo.gov/15info/SenateRoster.htm?utm_source=copilot.com). Cindy Theissen sassycat1959@hotmail.com 
--  House Representative Ed Lewis of Maries County, Dylan Robinson <Dylan.Robinson@house.mo.gov>. Butler County Carol Workman Carol.Workman@house.mo.gov. Ripley County Keith Elliott (Republican) is the Missouri House representative for Ripley County — he serves District 153.
+-  House Representative Ed Lewis of Maries County, Dylan Robinson <Dylan.Robinson@house.mo.gov>. Butler County Carol Workman Carol.Workman@house.mo.gov. Ripley County [Keith Elliott](https://house.mo.gov/memberdetails.aspx?district=153&year=2026&code=R) Missouri House representative for Ripley County — he serves District 153.
 - [Iowa](https://iowagenealogy.org/surname.php) igsresearch@yahoo.com Marj. 
 - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
 - [Johnson County](https://johnsonctyilgenhist.org/), info@johnsonctyilgenhist.org,  [Illinois](https://ilgensoc.org/cpage.php?pt=599). David Oliver oliverdavid553@gmail.com
