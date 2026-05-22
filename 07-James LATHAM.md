@@ -24,4 +24,5 @@ ACCOLADES:
 - Presidential Memorial Certificate (Pending)
 - [Missouri First Families Approved Ancestor](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf)
 - [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), (Pending)
-- Missouri Ceremonial Flag, flown over the State Capital in Jefferson Missouri on 14 May 2026. Certificate signed by Missouri Governor
+- Missouri Ceremonial Flag, flown over the State Capital in Jefferson Missouri on 12 May 2026. Certificate signed by Missouri Governor
+- Missouri House of Representatives Certificate of Recognition
