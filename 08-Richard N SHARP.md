@@ -4,6 +4,8 @@ Palmyra Spectator Published February 14, 1850. Rev. Richard Sharp died a month b
 
 He was ordained by Bishop Francis Ashbury, the first Methodist bishop. 
 
+The Sharpsburg Methodist Episcopal Church served as a center for the new Community. Rev. Richard Sharp, who had been ordained in Virginia in 1831 moved to the community in the 1830’s. He organized a church which met in his home until there was need for a larger building. In 1839, bids were issued for construction of a log structure 18′ x 20′. James A. Burditt and Henry were the successful bidders and were paid $50.00 for their labor to erect the building. Rev. Richard Sharp agreed to furnish the timber, and Burditt and Musgrove were to hew the logs and furnish any other material necessary for its’ completion. Because of the low cost, the congregation was able to occupy their new church with no outstanding debt. The present brick church building was built in 1860, and the bricks were molded and burned on the site. It was part of a church circuit with Rev. Sharp preaching at Sharpsburg the 1st Sunday of the month, Deer Creek, 2nd, Black Creek 3rd, and James Sharp’s home, 4th.
+
 He found Sharpsburg, Missouri. The first post office was in the home of Richard Sharp and he served as post master until his death in 1850.
 
 - Born:   11 May 1787  `#1`
