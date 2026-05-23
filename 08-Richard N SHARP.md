@@ -8,7 +8,7 @@ Palmyra Spectator Published February 14, 1850. Rev. Richard Sharp died a month b
 - Marriage Date:
 - Marriage Place: 
 - Died:  4 Feb 1850  `#1`
-- Burial Place:  [Sharpsburg Cemetery](https://www.findagrave.com/cemetery/31525/sharpsburg-cemetery) Marion County,  Missouri  `#1`
+- Burial Place:  [Sharpsburg Cemetery](https://www.findagrave.com/cemetery/31525/sharpsburg-cemetery), [Marion County](https://www.familysearch.org/en/wiki/Marion_County,_Missouri_Genealogy),  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#1`
 - Father: [Robert Sharp](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Robert%20SHARP.md)
 - Mother:
 - Child: [James A. Sharp](https://github.com/davidjkenner/FirstFamilies/blob/main/07-James%20Ansen%20SHARP.md)
