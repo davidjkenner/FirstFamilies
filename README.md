@@ -24,7 +24,7 @@ RESOURCES:
 - Illinois Vauna Crowder isgsoffice@ilgensoc.org
 - [Indiana](https://indianapioneers.org/ancestors/)
 - [Ohio](https://www.ogs.org/search-databases/). Sadie Ehrmantraut sehrmantraut@ogs.org
-- [Tennessee](https://tngs.org/TCD). Nancy Yager Smith, certificates@tngs.org , Director of Certificates 
+- [Tennessee](https://tngs.org/TCD). Nancy Yager Smith, certificates@tngs.org , Director of Certificates. [Hawkins County](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy) 
 - [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view). Kim Smith ksmith8061@aol.com, Michigan Pioneer Certificate chair
 - [Nebraska Surnames](https://nsgs.org/surname.php) . [Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). Please contact Sign Solutions of Lincoln, (402)466-1144, for information about purchasing a flag to be flown at the Capitol 
