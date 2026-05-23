@@ -41,3 +41,5 @@ ACCOLADES:
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 - Namesake: [Sharpsburg](https://en.wikipedia.org/wiki/Sharpsburg,_Missouri), Missouri. Justice of the Supreme Court of Missouri William T. Ragland was born here
 - Sharpsburg Methodist Church
+
+https://momarion.genealogyvillage.com/history/sharps.html
