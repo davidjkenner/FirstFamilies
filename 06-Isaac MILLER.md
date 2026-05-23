@@ -10,6 +10,7 @@ PVT Isaac Miller
 - Father: 
 - Mother:
 - Child:
+- Residence: [Gasconade](https://en.wikipedia.org/wiki/Gasconade,_Missouri), [Gasconade County](https://www.familysearch.org/en/wiki/Gasconade_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)
 
 
 
