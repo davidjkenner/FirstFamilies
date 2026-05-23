@@ -11,6 +11,7 @@ PVT James Latham
 - Father: 
 - Mother:
 - Child:
+- Residence: [Tishamingo County](https://www.familysearch.org/en/wiki/Tishomingo_County,_Mississippi_Genealogy), [Mississippi](https://www.familysearch.org/en/wiki/Mississippi,_United_States_Genealogy) 
 
 
 
