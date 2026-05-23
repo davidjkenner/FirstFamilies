@@ -42,9 +42,9 @@ ACCOLADES:
 - [MO0320__.415](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO0320__.415&docClass=STA&sid=lpavwzwq.t3w)	80 Acres
 - [MO0320__.453](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO0320__.453&docClass=STA&sid=lpavwzwq.t3w)	80 Acres
 - [MO2280__.160](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2280__.160&docClass=STA&sid=2xck2yog.exb)	80 Acres
-- [MO2280__.165](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2280__.165&docClass=STA&sid=lpavwzwq.t3w)
-- [MO2290__.338](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2290__.338&docClass=STA&sid=lpavwzwq.t3w)
-- [MO2290__.339](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2290__.339&docClass=STA&sid=lpavwzwq.t3w)
+- [MO2280__.165](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2280__.165&docClass=STA&sid=lpavwzwq.t3w) 80 Acres
+- [MO2290__.338](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2290__.338&docClass=STA&sid=lpavwzwq.t3w) 80 Acres
+- [MO2290__.339](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO2290__.339&docClass=STA&sid=lpavwzwq.t3w) 40 Acres
 - Namesake: [Sharpsburg](https://en.wikipedia.org/wiki/Sharpsburg,_Missouri), Missouri. Justice of the Supreme Court of Missouri William T. Ragland was born here
 - Sharpsburg Methodist Church
 - [Sharpsburg Cemetery](https://www.findagrave.com/cemetery/31525/sharpsburg-cemetery)
