@@ -1,5 +1,13 @@
 The Honorable Rev. Elias Housen Kenner
 
+He was Justice of the Peace for Maries County, MO. where he founded Kenner Methodist Church, Kenner Cemetary, Kenner School and has been certified by the state as a Missouri Pioneer.  From Maries County, he moved his family first to Briar township, Ripley County, MO. and finally to Warm Springs in Randolph Country, Arkansas.  All Kenner's from these counties, as well as Butler County MO, descend from him. Most of his decendents are either buried in Warm Springs Cemetary (next to Warm Springs Free Will Baptist Church); Shirley Cemetary (Ripley County) or Black Creek Cemetary (next to Black Creek Missionary Baptist Church outside of Poplar Bluff).  (NOTE: No Kenner is buried in Kenner Cemetary). His tombstone reads:
+
+Sleep on dear parents and take thy rest
+God called thee home, He thought it best.
+
+
+Moved to Pulaski County, Missouri after his marriage in 1842. Was a Justice of the Peace and Methodist minister. Donated land for the Kenner Church and Cemetery, as well as the Kenner School in Maries County, Missouri. Shown in the 1850 Federal Census for Pulaski County, Missouri (becoming Maries County in 1857), and the 1860 and 1870 census for Maries County, Missouri. Met with financial reverses in the 1870's and moved to Ripley County, Missouri. 1880 Federal Census for Ripley County, Missouri lists him as age 63 and blind. Most of the children in the household were noted as being able to read but not write. Elias, Clarinda and son Cavester were able to both read and write. Son Cavester was listed with occupation of Schoolteacher.
+
 - Born: 24 March 1817                                                    `#3, #1`
 - Birth Place:  Tennessee                                                `#1, #2`
 - Died:  16 Jan 1897                                                     `#3`
@@ -38,8 +46,8 @@ ACCOLADES:
 - [Missouri First Families](https://mosga.org): [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Maries](https://www.familysearch.org/en/wiki/Maries_County,_Missouri_Genealogy "Maries County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy") 
 - [Tennessee First Families](https://tngs.org/): [Hawkins County](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx):
--   	[MO1080__.239](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO1080__.239&docClass=STA&sid=gvjabtmb.op5)
--   	[MO1090__.246](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO1090__.246&docClass=STA&sid=43xxx3qp.nuk)		
+- [MO1080__.239](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO1080__.239&docClass=STA&sid=gvjabtmb.op5)
+- [MO1090__.246](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO1090__.246&docClass=STA&sid=43xxx3qp.nuk)		
 - Namesake:
 - Kenner Methodist Church
 - Kenner School
