@@ -15,7 +15,8 @@ SOURCES:
 1. [Year: 1860; Census Place: Dry Creek, Maries, Missouri; Roll: M653_632; Page: 562; Family History Library Film: 803632](https://www.ancestry.com/search/collections/7667/records/40427738?tid=168012819&pid=272180029271&ssrc=pt).
 2. [Elias House Kenner II Death Certificate: 16322](https://www.sos.mo.gov/images/archives/deathcerts/1928/1928_00016926.PDF)
 3. [Elias Kenner Tombstone. Find A Grave Memorial ID: 88920798](https://www.findagrave.com/memorial/88920798/elias_housen-kenner)
-4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): [ID K8FJ-7RG](https://www.familysearch.org/tree/person/details/K8FJ-7RG).
+5. WikiTree: [Kenner-128](https://www.wikitree.com/wiki/Kenner-128) 
 
 NAME
 
@@ -37,6 +38,8 @@ ACCOLADES:
 - [Missouri First Families](https://mosga.org): [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Maries](https://www.familysearch.org/en/wiki/Maries_County,_Missouri_Genealogy "Maries County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy") 
 - [Tennessee First Families](https://tngs.org/): [Hawkins County](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx):
+-   	[MO1080__.239](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO1080__.239&docClass=STA&sid=gvjabtmb.op5)
+-   	[MO1090__.246](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO1090__.246&docClass=STA&sid=43xxx3qp.nuk)		
 - Namesake:
 - Kenner Methodist Church
 - Kenner School
