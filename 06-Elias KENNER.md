@@ -3,7 +3,7 @@ The Honorable Rev. Elias Housen Kenner
 - Born: 24 March 1817                                                    `#3, #1`
 - Birth Place:  Tennessee                                                `#1, #2`
 - Died:  16 Jan 1897                                                     `#3`
-- Burial:  Macedonia Cemetery, Warm Springs, Randolph County, Arkansas  `#3`
+- Burial:  [Macedonia Cemetery](https://www.findagrave.com/cemetery/54860/macedonia-cemetery), [Warm Springs](https://en.wikipedia.org/wiki/Warm_Springs,_Arkansas), [Randolph](https://www.familysearch.org/en/wiki/Randolph_County,_Arkansas_Genealogy "Randolph County, Arkansas Genealogy"), [Arkansas](https://www.familysearch.org/en/wiki/Arkansas,_United_States_Genealogy "Arkansas, United States Genealogy")  `#3`
 - Spouse: [Clarinda Latham](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Clarinda%20LATHAM.md?plain=1)       `#2`
 - Marriage Date: before 1844      `#1`
 - Marriage Place
