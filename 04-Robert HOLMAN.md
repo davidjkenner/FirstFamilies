@@ -23,6 +23,6 @@ SOURCES:
 ACCOLADES:
 - Michigan First Families Certificate # [F-012](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/F012%20docs.pdf)
 - Oklahoma First Families: Settler and Builder No. 45
-- Land Grants: 142273   160 acres; # 10522  147 acres
+- Land Grants: [142273](https://glorecords.blm.gov/details/patent/default.aspx?accession=142273&docClass=SER&sid=lbloniyw.sws)   160 acres; # 10522  147 acres
 - Nebraska First Families Certificate #20-002
 
