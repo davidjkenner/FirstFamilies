@@ -17,6 +17,7 @@ SOURCES:
 2. [Year: 1860; Census Place: Oxford, Oakland, Michigan; Page: 773; Family History Library Film: 803556](https://www.ancestry.com/search/collections/7667/records/45216520)
 3. [1930; Census Place: Police Jury Ward 3, Beauregard, L](https://www.ancestry.com/search/collections/6224/records/34318698?tid=168012819&pid=272180029245&ssrc=pt)
 4. Michigan First Families Certificate # [F-012](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/F012%20docs.pdf)
+5. WikiTree: [Holman-3628](https://www.wikitree.com/wiki/Holman-3628)
 
 
 
