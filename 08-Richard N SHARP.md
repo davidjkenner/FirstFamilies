@@ -2,6 +2,10 @@ Rev. Richard N Sharp
 
 Palmyra Spectator Published February 14, 1850. Rev. Richard Sharp died a month before his son John Sharp died in California. Rev. Richard Sharp Death reported in The Nashville Christian Advocate of the M.E. Church March 8, 1850 page 5 of 14. Born Albemarle County VA, May 1, 1787. Joined Methodist Church Nov. 8, 1805. Licensed to preach, ordained deacon Feb. 23, 1812. Ordained elder, fall of 1818. Moved to Shelby Co KY 1816 Moved to Marion [Monroe] County MO fall of 1831. Local Methodist preacher, died recently.  
 
+He was ordained by Bishop Francis Ashbury, the first Methodist bishop. 
+
+He found Sharpsburg, Missouri and established the post office in 1850
+
 - Born:   11 May 1787  `#1`
 - Birth Place:
 - Spouse:  Nancy Row
@@ -33,4 +37,5 @@ SOURCES:
 ACCOLADES:
 - [Missouri First Families](https://mosga.org): [Butler](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy), [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Maries](https://www.familysearch.org/en/wiki/Maries_County,_Missouri_Genealogy "Maries County, Missouri Genealogy"),  [Monroe](https://www.familysearch.org/en/wiki/Monroe_County,_Missouri_Genealogy "Monroe County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy") 
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx):
-- Namesake: Sharpsburg, Missouri. Sharpsburg  Methodist Church
+- Namesake: [Sharpsburg](https://en.wikipedia.org/wiki/Sharpsburg,_Missouri), Missouri. Justice of the Supreme Court of Missouri William T. Ragland was born here
+- Sharpsburg Methodist Church
