@@ -23,8 +23,6 @@ I am requesting the Office of the Capitol Commission to fly a United State flag 
 ACCOLADES:
 
 - Nebraska First Families Certificate #23-002
-- Land Grants: [MI1250__.479](https://glorecords.blm.gov/details/patent/default.aspx?accession=MI1250__.479&docClass=STA&sid=y4vhw4bs.eqv) (160 acres) ; [MW-0984-417](https://glorecords.blm.gov/details/patent/default.aspx?accession=0984-417&docClass=MW&sid=ivydenqu.xf4) (160 acres); 
-
  
 I Priority Mailed you a copy of this letter and enclosed is a standard 3’ x 5’ United States flag. Expected delivery is Tuesday, May 26
 
