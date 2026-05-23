@@ -13,7 +13,7 @@ PVT Isaac Miller was born in Gasconade, Missouri in 1820 - before Missouri becam
 - Mother:
 - Child:  Matilda Narcissa Miller
 - Residence: [Gasconade](https://en.wikipedia.org/wiki/Gasconade,_Missouri), [Gasconade County](https://www.familysearch.org/en/wiki/Gasconade_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#4`
-- Military Service: Osage Co Home Gd Infantry Regiment Missouri  `#6`
+- Military Service: [Osage County](https://www.familysearch.org/en/wiki/Osage_County,_Missouri_Genealogy) Home Gd Infantry Regiment [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#6`
 
 
 
