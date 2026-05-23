@@ -1,15 +1,17 @@
 Robert James Holman 
 
 - Born: 25 Jan 1860  `#1, #2, #3, #4`
-- Birth Place: Oxford, Oakland, Michigan  `#2, #3, #4`
+- Birth Place: [Oxford](https://en.wikipedia.org/wiki/Oxford,_Michigan), [Oakland County](https://www.familysearch.org/en/wiki/Oakland_County,_Michigan_Genealogy), [Michigan](https://www.familysearch.org/en/wiki/Michigan,_United_States_Genealogy)  `#2, #3, #4`
 - Marriage Date: 13 March 1911  `#3, #4`
-- Marriage Place: Buffalo, Harper County, Oklahoma  `#3, #4`
+- Marriage Place: [Buffalo](https://en.wikipedia.org/wiki/Buffalo,_Oklahoma), [Harper County](https://www.familysearch.org/en/wiki/Harper_County,_Oklahoma_Genealogy), [Oklahoma](https://www.familysearch.org/en/wiki/Oklahoma,_United_States_Genealogy)  `#3, #4`
 - Died: 5 Jan 1946  `#1, #4`
-- Burial Place:  Williamson Cemetery, Vidor, Orange County, Texas  `#1, #4`
+- Burial Place:  Williamson Cemetery, [Vidor](https://en.wikipedia.org/wiki/Vidor,_Texas), [Orange County](https://www.familysearch.org/en/wiki/Orange_County,_Texas_Genealogy), [Texas](https://www.familysearch.org/en/wiki/Texas,_United_States_Genealogy)  `#1, #4`
 - Father:  James Holman  `#2`
 - Mother:  [Hannah Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Hannah%20PARKER.md?plain=1)  `#2`
 - Spouse:  [Evalyn Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3, #4`
 - Child:  [Roberta Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Roberta%20HOLMAN.md)  `#3`
+- Residence:
+- 
 
 
 SOURCES:
