@@ -1,8 +1,8 @@
 Circuit Rider Rev. Richard N Sharp
 
-The Rev. Richard N Sharp was ordained by Bishop Francis Ashbury, the first Methodist bishop, in Virginia in 1831. In the fall of 1831,  Rev. Sharp moved to Missouri. He was awarded multiple landgrants in Missouri. On this land he built Sharpsburg, Missouri. The first post office was in the home of Richard Sharp and he served as post master until his death in 1850. He built Sharpsburg Methodist Church. It was part of a church circuit with Rev. Sharp preaching at Sharpsburg the 1st Sunday of the month, Deer Creek, 2nd, Black Creek 3rd, and James Sharp’s home, 4th. Rev. Sharp died in 1850 and is buried at Sharpsburg Cemetery. 
+Born Albemarle County VA, May 1, 1787. Joined Methodist Church Nov. 8, 1805. Licensed to preach, ordained deacon Feb. 23, 1812. Ordained elder, fall of 1818. Both times he was ordained by Bishop Francis Ashbury, the first Methodist bishop. In the fall of 1831,  Rev. Sharp moved to Missouri. He was awarded multiple landgrants in Missouri. On this land he built Sharpsburg, Missouri. The first post office was in the home of Richard Sharp and he served as post master until his death in 1850. He built Sharpsburg Methodist Church. It was part of a church circuit with Rev. Sharp preaching at Sharpsburg the 1st Sunday of the month, Deer Creek, 2nd, Black Creek 3rd, and James Sharp’s home, 4th. Rev. Sharp died in 1850 and is buried at Sharpsburg Cemetery. 
 
-Rev. Richard Sharp Death reported in The Nashville Christian Advocate of the M.E. Church March 8, 1850 page 5 of 14. Born Albemarle County VA, May 1, 1787. Joined Methodist Church Nov. 8, 1805. Licensed to preach, ordained deacon Feb. 23, 1812. Ordained elder, fall of 1818. Moved to Shelby Co KY 1816 Moved to Marion [Monroe] County MO fall of 1831. Local Methodist preacher, died recently. 
+Rev. Richard Sharp Death reported in The Nashville Christian Advocate of the M.E. Church March 8, 1850 page 5 of 14.  Moved to Shelby Co KY 1816 Moved to Marion [Monroe] County MO fall of 1831. Local Methodist preacher, died recently. 
 
 - Born:   11 May 1787  `#1`
 - Birth Place:
