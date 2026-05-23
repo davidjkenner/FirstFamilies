@@ -1,4 +1,4 @@
-The Honorable Elias Housen Kenner
+The Honorable Rev. Elias Housen Kenner
 
 - Born: 24 March 1817                                                    #3, #1
 - Birth Place:  Tennessee                                                #1, #2
@@ -6,13 +6,41 @@ The Honorable Elias Housen Kenner
 - Burial:  Macedonia Cemetery, Warm Stprings, Randolph County, Arkansas  #3
 - Spouse: [Clarinda Latham](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Clarinda%20LATHAM.md?plain=1)       `#2`
 - Marriage Date: before 1844      `#1`
+- Marriage Place
+- Father: 
+- Mother:
 - Child:  [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)                                                   #1, #2             
 
-
-SOURCES
+SOURCES:
 1. [Year: 1860; Census Place: Dry Creek, Maries, Missouri; Roll: M653_632; Page: 562; Family History Library Film: 803632](https://www.ancestry.com/search/collections/7667/records/40427738?tid=168012819&pid=272180029271&ssrc=pt).
 2. [Elias House Kenner II Death Certificate: 16322](https://www.sos.mo.gov/images/archives/deathcerts/1928/1928_00016926.PDF)
 3. [Elias Kenner Tombstone. Find A Grave Memorial ID: 88920798](https://www.findagrave.com/memorial/88920798/elias_housen-kenner)
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+
+NAME
+
+I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor 
+
+Typically, these flags are presented in order to honor a US Service Member, member of Law Enforcement or EMS, Teachers, Public Officials or others that have provided a service to the state or nation or in commemoration of a specific event. 
+
+This flag is to honor my ancestor 
+
+Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  The mailing address is 6003 Pouring Glories Way, Clarksville, MD 21029
+
+Thank you and have a blessed day
+David J. Kenner
+6003 Pouring Glories Way, Clarksville, MD 21029
+667-678-0854
+
+ACCOLADES:
+- [Arkansas First Families](http://agsgenealogy.org/ancestrycert/default.html): [Randolph](https://www.familysearch.org/en/wiki/Randolph_County,_Arkansas_Genealogy "Randolph County, Arkansas Genealogy"), [Arkansas](https://www.familysearch.org/en/wiki/Arkansas,_United_States_Genealogy "Arkansas, United States Genealogy")
+- [Missouri First Families](https://mosga.org): [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Maries](https://www.familysearch.org/en/wiki/Maries_County,_Missouri_Genealogy "Maries County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy") 
+- [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
+- [Land Grants](https://glorecords.blm.gov/search/default.aspx):
+- Namesake:
+- Kenner Methodist Church
+- Kenner School
+- Kenner Cemetery
 
 
 Certificates are issued for one of five settlement periods: 
