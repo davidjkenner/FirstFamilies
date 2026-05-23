@@ -1,12 +1,8 @@
-Rev. Richard N Sharp
+Circuit Rider Rev. Richard N Sharp
 
-The Rev. Richard N Sharp was ordained by Bishop Francis Ashbury, the first Methodist bishop. 
+The Rev. Richard N Sharp was ordained by Bishop Francis Ashbury, the first Methodist bishop, in Virginia in 1831. In the fall of 1831,  Rev. Sharp moved to Missouri. He was awarded multiple landgrants in Missouri. On this land he built Sharpsburg, Missouri. The first post office was in the home of Richard Sharp and he served as post master until his death in 1850. He built Sharpsburg Methodist Church. It was part of a church circuit with Rev. Sharp preaching at Sharpsburg the 1st Sunday of the month, Deer Creek, 2nd, Black Creek 3rd, and James Sharp’s home, 4th. Rev. Sharp died in 1850 and is buried at Sharpsburg Cemetery. 
 
-The Sharpsburg Methodist Episcopal Church served as a center for the new Community. Rev. Richard Sharp, who had been ordained in Virginia in 1831 moved to the community in the 1830’s. He organized a church which met in his home until there was need for a larger building. In 1839, bids were issued for construction of a log structure 18′ x 20′. James A. Burditt and Henry were the successful bidders and were paid $50.00 for their labor to erect the building. Rev. Richard Sharp agreed to furnish the timber, and Burditt and Musgrove were to hew the logs and furnish any other material necessary for its’ completion. Because of the low cost, the congregation was able to occupy their new church with no outstanding debt. The present brick church building was built in 1860, and the bricks were molded and burned on the site. It was part of a church circuit with Rev. Sharp preaching at Sharpsburg the 1st Sunday of the month, Deer Creek, 2nd, Black Creek 3rd, and James Sharp’s home, 4th.
-
-He found Sharpsburg, Missouri. The first post office was in the home of Richard Sharp and he served as post master until his death in 1850.
-
-Palmyra Spectator Published February 14, 1850. Rev. Richard Sharp died a month before his son John Sharp died in California. Rev. Richard Sharp Death reported in The Nashville Christian Advocate of the M.E. Church March 8, 1850 page 5 of 14. Born Albemarle County VA, May 1, 1787. Joined Methodist Church Nov. 8, 1805. Licensed to preach, ordained deacon Feb. 23, 1812. Ordained elder, fall of 1818. Moved to Shelby Co KY 1816 Moved to Marion [Monroe] County MO fall of 1831. Local Methodist preacher, died recently. 
+Rev. Richard Sharp Death reported in The Nashville Christian Advocate of the M.E. Church March 8, 1850 page 5 of 14. Born Albemarle County VA, May 1, 1787. Joined Methodist Church Nov. 8, 1805. Licensed to preach, ordained deacon Feb. 23, 1812. Ordained elder, fall of 1818. Moved to Shelby Co KY 1816 Moved to Marion [Monroe] County MO fall of 1831. Local Methodist preacher, died recently. 
 
 - Born:   11 May 1787  `#1`
 - Birth Place:
