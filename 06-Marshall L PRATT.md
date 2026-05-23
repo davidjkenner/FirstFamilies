@@ -1,5 +1,43 @@
 Marshall L Pratt
 
+Castro, Anna <anna.castro@nebraska.gov>
+
+Nebraska Secretary of State’s Office
+
+State Capitol Suite 2300
+
+P.O. Box 94608
+
+Lincoln, NE 68509-4608
+
+ 
+
+Greetings,
+
+ 
+
+I am requesting the Office of the Capitol Commission to fly a United State flag for commemorative purposes on a flag pole located at the Nebraska State Capitol. In honor of my ancestor Marshall Lincoln Pratt.  During the Civil War, he served about four years in Company D and H of the 26th Regiment of the Illinois Infantry.  After the war, Nebraska became his home. Here he received a Land Grant. He married Isabel Pratt. They raised their children in Nebraska. He was buried in Nebraska with full honors by Richardson Post 60 Grand Army of the Republic.  They were Pioneers of Otoe County, Nebraska. They had a large farm and built a large frame house. They had seven children, including Evalyn Frederica Gray. Evalyn married twice. First to Oldsburg and then to Robert James Holmna III. In 1900, after most of the children were grown and some of them were married, Robert & Isabelle Gray moved to a farm in Garfield County, Oklahoma. By hard work and self-denial, they managed to acquire a good amount of property.
+
+ 
+
+ACCOLADES:
+
+- Nebraska First Families Certificate #23-002
+- Land Grants: [MI1250__.479](https://glorecords.blm.gov/details/patent/default.aspx?accession=MI1250__.479&docClass=STA&sid=y4vhw4bs.eqv) (160 acres) ; [MW-0984-417](https://glorecords.blm.gov/details/patent/default.aspx?accession=0984-417&docClass=MW&sid=ivydenqu.xf4) (160 acres); 
+
+ 
+I Priority Mailed you a copy of this letter and enclosed is a standard 3’ x 5’ United States flag. Expected delivery is Tuesday, May 26
+
+ 
+
+David J. Kenner
+
+Mailing Address:          6003 Pouring Glories Way, Clarksville, Maryland, 21029-1261
+
+Phone Number:            667-678-0854
+
+Email:                                 davidjkenner@gmail.com
+
 Name: Bob Hallstrom  
 Title: State Senator, Nebraska Unicameral  
 District: 1 — District 1 includes Otoe County.
