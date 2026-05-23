@@ -1,5 +1,7 @@
 PVT Isaac Miller
 
+PVT Isaac Miller was born in Gasconade, Missouri in 1820 - before Missouri became a state!  Both him and his son served in the Osage County Regiment, Missouri Home Guard during the Civil War. He died during the War and is buried Jefferson Barracks National Cemetery.
+
 - Born: 1820  `#3`
 - Birth Place:  Missouri  `#3` 
 - Spouse: Elizabeth Wolfe  `#3`
