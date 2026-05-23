@@ -1,5 +1,7 @@
 Robert James Holman 
 
+Robert James Holman was a Oklahoma Pioneer who married and raise his family in Harper County, Oklahoma. His daughter, my grandmother, Roberta Holman Bower is Oklahoma First Families: Settler and Builder No. 43. 
+
 - Born: 25 Jan 1860  `#1, #2, #3, #4`
 - Birth Place: [Oxford](https://en.wikipedia.org/wiki/Oxford,_Michigan), [Oakland County](https://www.familysearch.org/en/wiki/Oakland_County,_Michigan_Genealogy), [Michigan](https://www.familysearch.org/en/wiki/Michigan,_United_States_Genealogy)  `#2, #3, #4`
 - Marriage Date: 13 March 1911  `#3, #4`
@@ -10,8 +12,6 @@ Robert James Holman
 - Mother:  [Hannah Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Hannah%20PARKER.md?plain=1)  `#2`
 - Spouse:  [Evalyn Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3, #4`
 - Child:  [Roberta Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Roberta%20HOLMAN.md)  `#3`
-- Residence:
-- 
 
 
 SOURCES:
