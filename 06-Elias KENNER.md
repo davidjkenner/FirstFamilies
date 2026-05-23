@@ -35,7 +35,7 @@ David J. Kenner
 ACCOLADES:
 - [Arkansas First Families](http://agsgenealogy.org/ancestrycert/default.html): [Randolph](https://www.familysearch.org/en/wiki/Randolph_County,_Arkansas_Genealogy "Randolph County, Arkansas Genealogy"), [Arkansas](https://www.familysearch.org/en/wiki/Arkansas,_United_States_Genealogy "Arkansas, United States Genealogy")
 - [Missouri First Families](https://mosga.org): [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Maries](https://www.familysearch.org/en/wiki/Maries_County,_Missouri_Genealogy "Maries County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy") 
-- [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
+- [Tennessee First Families](https://tngs.org/): [Hawkins County](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 - Namesake:
 - Kenner Methodist Church
