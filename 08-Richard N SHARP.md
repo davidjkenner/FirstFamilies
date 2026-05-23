@@ -4,7 +4,7 @@ Palmyra Spectator Published February 14, 1850. Rev. Richard Sharp died a month b
 
 He was ordained by Bishop Francis Ashbury, the first Methodist bishop. 
 
-He found Sharpsburg, Missouri and established the post office in 1850
+He found Sharpsburg, Missouri. The first post office was in the home of Richard Sharp and he served as post master until his death in 1850.
 
 - Born:   11 May 1787  `#1`
 - Birth Place:
