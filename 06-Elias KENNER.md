@@ -2,7 +2,7 @@ The Honorable Rev. Elias Housen Kenner
 
 He was Justice of the Peace for Maries County, MO. where he founded Kenner Methodist Church, Kenner Cemetary, Kenner School and has been certified by the state as a Missouri Pioneer.  
 
-Met with financial reverses in the 1870's and moved to Ripley County, Missouri. 1880 Federal Census for Ripley County, Missouri lists him as age 63 and blind. Most of the children in the household were noted as being able to read but not write. He was a Ripley County Pioneer. He is listed on the Personal Tax List 1873 & 1877 are the earliest found for Ripley County
+Met with financial reverses in the 1870's and moved to [Union](https://en.wikipedia.org/wiki/Union_Township,_Ripley_County,_Missouri), [Ripley County](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy). 1880 Federal Census for Ripley County, Missouri lists him as age 63 and blind. Most of the children in the household were noted as being able to read but not write. He was a Ripley County Pioneer. He is listed on the Personal Tax List 1873 & 1877 are the earliest found for Ripley County
 
 
 and finally to Warm Springs in Randolph Country, Arkansas.  All Kenner's from these counties, as well as Butler County MO, descend from him. Most of his decendents are either buried in Warm Springs Cemetary (next to Warm Springs Free Will Baptist Church); Shirley Cemetary (Ripley County) or Black Creek Cemetary (next to Black Creek Missionary Baptist Church outside of Poplar Bluff).  (NOTE: No Kenner is buried in Kenner Cemetary). His tombstone reads:
