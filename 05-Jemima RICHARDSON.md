@@ -6,7 +6,7 @@ Jemima Richardson
 - Burial:   Bennett Cemetery, Bennett, Ripley County, Missouri `#1`
 - Spouse:  [George W. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-George%20Wilson.md) `#4`
 - Marriage Date: before 1878  `#3`
-- Child:  Aulsy Wilson
+- Child:  [Aulsy Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Aulsy%20WILSON.md)
 - Father: William A Richardson  `#2`
 - Mother: Jane Childers  `#2`
 
