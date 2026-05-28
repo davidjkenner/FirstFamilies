@@ -3,7 +3,7 @@ Jemima Richardson
 - Born: 14 Feb 1859  `#2, #5`
 - Birth Place: [Linden](https://en.wikipedia.org/wiki/Linden,_Tennessee), [Perry County](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#2, #5`
 - Died: 31 July 1924  `#2`
-- Burial:   Bennett Cemetery, Bennett, Ripley County, Missouri `#1`
+- Burial:   [Bennett Cemetery](https://www.findagrave.com/cemetery/27545/bennett-cemetery), [Bennett](https://en.wikipedia.org/wiki/Bennett,_Missouri), [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy") `#1`
 - Spouse:  [George W. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-George%20Wilson.md) `#4`
 - Marriage Date: before 1878  `#3`
 - Child:  [Aulsy Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Aulsy%20WILSON.md)
