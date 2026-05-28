@@ -1,7 +1,7 @@
 Jemima Richardson
 
 - Born: 14 Feb 1859  `#2, #5`
-- Birth Place: [Linden](https://en.wikipedia.org/wiki/Linden,_Tennessee), Perry County, Tennessee  `#2, #5`
+- Birth Place: [Linden](https://en.wikipedia.org/wiki/Linden,_Tennessee), [Perry County](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#2, #5`
 - Died: 31 July 1924  `#2`
 - Burial:   Bennett Cemetery, Bennett, Ripley County, Missouri `#1`
 - Spouse:  [George W. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-George%20Wilson.md) `#4`
