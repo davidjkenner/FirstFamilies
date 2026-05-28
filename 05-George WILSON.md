@@ -13,6 +13,7 @@ George Wilson
 
 ACCOLADES:
 - Land Grant: [MO4380__.054](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO4380__.054&docClass=STA&sid=tg4ogi5f.na4#patentDetailsTabIndex=0)	(80 acres)
+- Tennessee First Families Certificate: 1788
 
 
 SOURCES:
