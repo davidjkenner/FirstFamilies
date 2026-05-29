@@ -43,6 +43,7 @@ SOURCES:
 6. Wikitree [Gray-16682](https://www.wikitree.com/wiki/Gray-16682)
 7. [Battle Unit Details - The Civil War (U.S. National Park Service)](https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=UIL0026RI)
 8. [Soldier Details - The Civil War (U.S. National Park Service)](https://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=92A584A2-DC7A-DF11-BF36-B8AC6F5D926A)
+9. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Gray-16682](https://www.wikitree.com/wiki/Gray-16682)
 
 
 
