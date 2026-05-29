@@ -26,6 +26,6 @@ SOURCES:
 
 
 ACCOLADES:
-- [Illinios First Families](https://ilgensoc.org): (Pending)
+- [Illinios First Families](https://ilgensoc.org)
 - [Missouri First Families](https://mosga.org)
 
