@@ -23,6 +23,8 @@ SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
 2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
 3. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Syler-118](https://www.wikitree.com/wiki/Syler-118)
+4. [The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 15, Carroll, Missouri; Roll: 395; Page: 21a](https://www.ancestry.com/search/collections/8054/records/3691895?tid=168012819&pid=272180027336&ssrc=pt)
+5. 
 
 
 ACCOLADES:
