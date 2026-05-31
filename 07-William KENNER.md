@@ -25,8 +25,12 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
-3. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): 
+2. [Land Grants](https://glorecords.blm.gov/search/default.aspx):
+3. Namesake
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
+6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
+
 
 
 ACCOLADES:
@@ -43,5 +47,3 @@ ACCOLADES:
 - [Pennsylvania First Families](https://genpa.org):
 - [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
 - [Wisconsin First Families](https://wsgs.org/cpage.php?pt=212):
-- [Land Grants](https://glorecords.blm.gov/search/default.aspx):
-- Namesake
