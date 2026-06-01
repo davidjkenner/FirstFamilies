@@ -13,8 +13,8 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 - Marriage Place:  North Carolina  `#7`
 - Died:   1784  `#7`
 - Death Place:   Watauga, Washington Co., NC, now Carter Co., TN  `#7, #8`
-- Father:  [The Honorable Major Howson Kenner I](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)  `#7, #8`
-- Mother:  Margaret Eskridge  `#7, #8`
+- Father:  [The Honorable Major Howson Kenner I](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)  `#7, #8, #9`
+- Mother:  Margaret Eskridge  `#7, #8, #9`
 - Child:  [Midshipman Howson KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Midshipman%20Howson%20KENNER.md)  `#7, #8`
 
 
@@ -28,6 +28,7 @@ SOURCES:
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
 8. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
+9. [William and Mary College Quarterly VOL III P.256-260](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/kennerfamilywilliamandmarycollegequarterly.pdf)
 
 
 
