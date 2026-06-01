@@ -19,7 +19,7 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father:  
+- Father:  [Midshipman Howson KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Midshipman%20Howson%20KENNER.md)
 - Mother:
 - Child:  Rev. [Elias Housen Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elias%20KENNER.md)
 
