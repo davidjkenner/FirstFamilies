@@ -15,7 +15,7 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 - Burial Place:  
 - Father:  [PVT Francis KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Francis%20KENNER.md)
 - Mother:
-- Child:
+- Child:  [William (Billie) KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/07-William%20KENNER.md)
 
 
 
