@@ -20,7 +20,7 @@ Moved to Pulaski County, Missouri after his marriage in 1842. Was a Justice of t
 - Spouse: [Clarinda Latham](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Clarinda%20LATHAM.md?plain=1)       `#2`
 - Marriage Date: before 1844      `#1`
 - Marriage Place
-- Father: William (Billie) Kenner
+- Father: [William (Billie) Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/07-William%20KENNER.md)
 - Mother: Elizabeth Mendenhall
 - Child:  [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)  `#1, #2`
 
