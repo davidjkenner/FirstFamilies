@@ -12,13 +12,13 @@ I am a native Missourian, a Military Spouse and an active public servant in the 
 
 Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  
 
-- Born: 
-- Birth Place:
-- Spouse:  Elizabeth Mendenhall
-- Marriage Date:
-- Marriage Place
-- Died: 
-- Burial Place:  
+- Born: 1788    `#9`
+- Birth Place:  Hawkins Country, Tennessee    `#9`
+- Spouse:  Elizabeth Mendenhall  `#9`
+- Marriage Date:  1816    `#9`
+- Marriage Place:  Hawkins Country, Tennessee    `#9`
+- Died:  1829   `#9` 
+- Burial Place:  unknown
 - Father:  [Midshipman Howson KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Midshipman%20Howson%20KENNER.md)
 - Mother:
 - Child:  Rev. [Elias Housen Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elias%20KENNER.md)
@@ -34,7 +34,7 @@ SOURCES:
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): [William (Billie) Kenner](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709444686/gallery)
 7. [Sevier Autobiography](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/SevierP529_top.jpg).
 8. [Tidbits in Tennessee](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Tidbits%20in%20Tennnessee.jpg)
-9. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 
+9. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
 
 
 
