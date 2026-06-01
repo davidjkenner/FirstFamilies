@@ -6,16 +6,16 @@ I am a native Missourian, a Military Spouse and an active public servant in the 
 
 Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  
 
-- Born: 
-- Birth Place:
-- Spouse:
+- Born: 1734  `#7`
+- Birth Place:  Virginia  `#7`
+- Spouse:  Elizabeth HOWARD  `#7`
 - Marriage Date:
-- Marriage Place
-- Died: 
-- Burial Place:  
-- Father:  [The Honorable Major Howson Kenner I](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)
-- Mother:
-- Child:  [Midshipman Howson KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Midshipman%20Howson%20KENNER.md)
+- Marriage Place:  North Carolina  `#7`
+- Died:   1784  `#7`
+- Death Place:   Watauga, Washington Co., NC, now Carter Co., TN  `#7`
+- Father:  [The Honorable Major Howson Kenner I](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)  `#7`
+- Mother:  Margaret Eskridge  `#7`
+- Child:  [Midshipman Howson KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Midshipman%20Howson%20KENNER.md)  `#7`
 
 
 
@@ -26,6 +26,7 @@ SOURCES:
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
 5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
+7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
 
 
 
