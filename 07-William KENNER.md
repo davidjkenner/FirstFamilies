@@ -29,8 +29,8 @@ SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
 2. [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 3. Namesake
-4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
-5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [KZLP-6SY](https://www.familysearch.org/en/tree/person/details/KZLP-6SY)
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Kenner-132](https://www.wikitree.com/wiki/Kenner-132)
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
 
 
