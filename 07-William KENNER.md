@@ -32,6 +32,7 @@ SOURCES:
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [KZLP-6SY](https://www.familysearch.org/en/tree/person/details/KZLP-6SY)
 5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Kenner-132](https://www.wikitree.com/wiki/Kenner-132)
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
+7. [Sevier Autobiography](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/SevierP529_top.jpg).
 
 
 
