@@ -8,14 +8,14 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 
 - Born: 
 - Birth Place:
-- Spouse:
+- Spouse: Anne Constable
 - Marriage Date:
 - Marriage Place
 - Died: 
 - Burial Place:  
 - Father: 
 - Mother:
-- Child:
+- Child: Elizabeth Lee
 
 
 
@@ -24,7 +24,7 @@ SOURCES:
 2. [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 3. Namesake
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
-5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): Lee-318 https://www.wikitree.com/wiki/Lee-318
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
 
 
