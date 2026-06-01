@@ -6,15 +6,15 @@ I am a native Missourian, a Military Spouse and an active public servant in the 
 
 Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  
 
-- Born:  1757  `#7` 
+- Born:  1757  `#7, #8` 
 - Birth Place:
-- Spouse:  Lucy Callahan  `#7`
+- Spouse:  Lucy Callahan  `#7, #8`
 - Marriage Date:  1787  `#7`
 - Marriage Place
-- Died:   29 June 1824  `#7`
+- Died:   29 June 1824  `#7, #8`
 - Burial Place:  Howson County, Tennessee  `#7`
-- Father:  [PVT Francis KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Francis%20KENNER.md)
-- Mother:
+- Father:  [PVT Francis KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Francis%20KENNER.md)  `#8`
+- Mother:  Elizabeth Howard  `#8`
 - Child:  [William (Billie) KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/07-William%20KENNER.md)
 
 
@@ -27,7 +27,8 @@ SOURCES:
 5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
-8. Virginia revolutionary pay certificate for his services on June 28, 1784 for 92 pounds, Volume CLXXV, page 556
+8. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
+9. Virginia revolutionary pay certificate for his services on June 28, 1784 for 92 pounds, Volume CLXXV, page 556
 
 
 
