@@ -6,15 +6,15 @@ I am a native Missourian, a Military Spouse and an active public servant in the 
 
 Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  
 
-- Born: 
+- Born: 1712  `#7`
 - Birth Place:
-- Spouse:
+- Spouse:  Margaret Eskridge  `#7`
 - Marriage Date:
 - Marriage Place
-- Died: 
+- Died: 1778
 - Burial Place:  
-- Father: 
-- Mother:
+- Father: Capt Francis Kenner  `#7`
+- Mother:  [Hannah Howson](https://github.com/davidjkenner/FirstFamilies/blob/main/11-Hannah%20HOWSON.md)  `#7`
 - Child: [PVT Francis KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Francis%20KENNER.md)
 
 
