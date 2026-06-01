@@ -8,14 +8,14 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 
 - Born: 
 - Birth Place:
-- Spouse: Capt. Francis Kenner  `#7`
+- Spouse: Capt. Francis Kenner  `#7, #8`
 - Marriage Date:
 - Marriage Place
 - Died: 
 - Burial Place:  
 - Father: 
 - Mother:
-- Child:  [Major Howson Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)  `#7`
+- Child:  [Major Howson Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)  `#7, #8`
 
 
 
@@ -27,6 +27,7 @@ SOURCES:
 5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
+8. [William and Mary College Quarterly VOL III P.256-260](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/kennerfamilywilliamandmarycollegequarterly.pdf)
 
 
 
