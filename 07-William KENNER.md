@@ -19,7 +19,7 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father:  PVT [Francis Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Francis%20KENNER.md)
+- Father:  
 - Mother:
 - Child:  Rev. [Elias Housen Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elias%20KENNER.md)
 
