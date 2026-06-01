@@ -14,7 +14,7 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 
 - Born: 
 - Birth Place:
-- Spouse:
+- Spouse:  Elizabeth Mendenhall
 - Marriage Date:
 - Marriage Place
 - Died: 
