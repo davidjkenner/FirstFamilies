@@ -33,6 +33,7 @@ SOURCES:
 5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Kenner-132](https://www.wikitree.com/wiki/Kenner-132)
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): [William (Billie) Kenner](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709444686/gallery)
 7. [Sevier Autobiography](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/SevierP529_top.jpg).
+8. [Tidbits in Tennessee](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Tidbits%20in%20Tennnessee.jpg)
 
 
 
