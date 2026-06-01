@@ -13,7 +13,7 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: 
+- Father:  [The Honorable Major Howson Kenner I](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)
 - Mother:
 - Child:
 
