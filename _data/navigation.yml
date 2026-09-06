@@ -1,4 +1,23 @@
 main:
+- title: Kids
+  type: dropdown
+  items:
+    - title: Clubs
+      url: /kids/clubs/
+    - title: Contests
+      url: /kids/contests/
+    - title: Internships
+      url: /kids/internships/
+    - title: JROTC
+      url: /kids/jrotc/
+    - title: Ranger
+      url: /kids/ranger/
+    - title: Scholarships
+      url: /kids/scholarships/
+    - title: Scouts
+      url: /kids/scouts/
+  
+  
   - title: Events
     type: dropdown
     items:
